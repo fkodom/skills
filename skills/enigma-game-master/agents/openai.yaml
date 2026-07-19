@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enigma Game Master"
+  short_description: "Run email-based Enigma espionage games"
+  default_prompt: "Use $enigma-game-master to initialize or administer an Enigma game through Gmail."
