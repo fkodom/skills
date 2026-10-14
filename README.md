@@ -9,7 +9,6 @@ Use them with Codex, Claude Code, or another compatible agent. The tools and acc
 | Skill | What it does | When to use it |
 | --- | --- | --- |
 | [`seo-aeo-playbook`](skills/seo-aeo-playbook/SKILL.md) | Investigates search and AI-answer visibility, researches reader problems and backlinks, and turns findings into a content strategy. Includes site checks, backlink verification, source analysis, and transcript imports. | Auditing a website, refreshing SEO/AEO strategy, or deciding which content and reputation improvements to prioritize. |
-| [`gmail-newsletter-notebooklm`](skills/gmail-newsletter-notebooklm/SKILL.md) | Collects selected Gmail newsletters, adds them to a NotebookLM notebook, and generates an audio overview. | Turning recent or unread newsletters into a listening digest. |
 | [`enigma-game-master`](skills/enigma-game-master/SKILL.md) | Moderates the four-player Enigma email game, including secret objectives, round updates, scoring, and durable game state. | Starting, resuming, auditing, or scheduling an Enigma game. |
 | [`speedrun`](skills/speedrun/SKILL.md) | Executes pre-scoped Linear tickets in separate Claude sessions, checks CI, and merges completed work into a shared feature branch for review. | Working through execution-ready tickets after their scope and acceptance criteria are settled. |
 
@@ -64,7 +63,6 @@ Installing a skill adds its instructions and resources. Set up the tools used by
 | Skill | Requirements |
 | --- | --- |
 | `seo-aeo-playbook` | Web/browser access for research. Python 3.10+ for the bundled checks; those scripts use the standard library and need no paid SEO account. Search Console or analytics access is needed when inspecting those account reports. |
-| `gmail-newsletter-notebooklm` | Authenticated Google Workspace CLI (`gws`) and NotebookLM CLI (`notebooklm-py`), plus `jq`. See the skill for export and authentication details. |
 | `enigma-game-master` | Gmail access, a private writable directory for game state, and scheduling support for automatic rounds. |
 | `speedrun` | Claude Code CLI (`claude`), Linear CLI (`linear`), GitHub CLI (`gh`), Git, and access to the target repository and its checks. |
 
@@ -74,10 +72,6 @@ Ask for the task in plain language, or name the skill explicitly. In Codex, for 
 
 ```text
 Use $seo-aeo-playbook to audit our website and prioritize our next SEO improvements.
-```
-
-```text
-Use $gmail-newsletter-notebooklm to turn yesterday's newsletters into an audio overview.
 ```
 
 The `speedrun` workflow is written for Claude Code and accepts prompts such as `/speedrun 41-46`. Review each skill's setup and workflow before running it with a different agent.

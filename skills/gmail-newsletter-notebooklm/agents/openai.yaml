@@ -1,4 +1,0 @@
-interface:
-  display_name: "Gmail Newsletter to NotebookLM"
-  short_description: "Create NotebookLM audio overviews from Gmail newsletter emails."
-  default_prompt: "Create a NotebookLM audio overview from my Gmail newsletters."
