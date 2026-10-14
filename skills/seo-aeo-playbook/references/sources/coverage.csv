@@ -2,50 +2,50 @@ catalog_position,name,source_url,transcript_review,read_through,note_file,select
 1,PostEverywhere,https://seoroast.com/posteverywhere,read,29:37,posteverywhere.md,3,approximately 8:00,false
 2,Lindo,https://seoroast.com/lindo,read,24:26,lindo.md,2,,false
 3,Posterly,https://seoroast.com/posterly,read,27:05,posterly.md,2,,false
-4,Sqrl,,not_reviewed,,,,,unknown
+4,Sqrl,https://seoroast.com/sqrl,read,21:35,sqrl.md,0,,false
 5,DocuWriter,https://seoroast.com/docuwriter,read,17:47,docuwriter.md,2,,false
 6,Mindstamp,https://seoroast.com/mindstamp,read,30:34,mindstamp.md,0,,false
-7,PicSpot,,not_reviewed,,,,,unknown
-8,Fundbat,,not_reviewed,,,,,unknown
-9,AIApply,,not_reviewed,,,,,unknown
-10,Verbatik,,not_reviewed,,,,,unknown
-11,Cloud Residents,,not_reviewed,,,,,unknown
-12,GroupsWatcher,,not_reviewed,,,,,unknown
-13,Virlo,,not_reviewed,,,,,unknown
-14,Hormozi,,not_reviewed,,,,,unknown
+7,PicSpot,https://seoroast.com/picspot,read,22:36,picspot.md,0,,false
+8,Fundbat,https://seoroast.com/fundbat,read,28:17,fundbat.md,0,,false
+9,AIApply,https://seoroast.com/aiapply,read,42:34,aiapply.md,0,,false
+10,Verbatik,https://seoroast.com/verbatik,read,34:27,verbatik.md,2,,false
+11,Cloud Residents,https://seoroast.com/cloud-residents,read,14:26,cloud-residents.md,0,,false
+12,GroupsWatcher,https://seoroast.com/groupswatcher,read,14:08,groupswatcher.md,0,,false
+13,Virlo,https://seoroast.com/virlo,read,30:17,virlo.md,0,,false
+14,Hormozi,https://seoroast.com/hormozi,read,18:36,hormozi.md,0,,false
 15,Cal.com,https://seoroast.com/cal,read,22:13,cal.md,0,,false
-16,Blitz SEO Roast 1,,not_reviewed,,,,,unknown
-17,Nomad List,,not_reviewed,,,,,unknown
-18,Good Enough Logos,,not_reviewed,,,,,unknown
-19,Trendin,,not_reviewed,,,,,unknown
-20,Hoverify,,not_reviewed,,,,,unknown
-21,Tolt,,not_reviewed,,,,,unknown
-22,AI Suit Up,,not_reviewed,,,,,unknown
-23,Friends & Fables,,not_reviewed,,,,,unknown
-24,Memo Cards,,not_reviewed,,,,,unknown
-25,Backpack,,not_reviewed,,,,,unknown
-26,Rallly,,not_reviewed,,,,,unknown
-27,Fast Pass Driving Tests,,not_reviewed,,,,,unknown
+16,Blitz SEO Roast 1,https://seoroast.com/blitz-seo-1,preview_only,1:29,,0,,false
+17,Nomad List,https://seoroast.com/nomadlist,not_reviewed,,,,,unknown
+18,Good Enough Logos,https://seoroast.com/goodenoughlogos,not_reviewed,,,,,unknown
+19,Trendin,https://seoroast.com/trendin,not_reviewed,,,,,unknown
+20,Hoverify,https://seoroast.com/hoverify,not_reviewed,,,,,unknown
+21,Tolt,https://seoroast.com/tolt,not_reviewed,,,,,unknown
+22,AI Suit Up,https://seoroast.com/aisuitup,not_reviewed,,,,,unknown
+23,Friends & Fables,https://seoroast.com/fables,not_reviewed,,,,,unknown
+24,Memo Cards,https://seoroast.com/memo-cards,not_reviewed,,,,,unknown
+25,Backpack,https://seoroast.com/backpack-laravel,not_reviewed,,,,,unknown
+26,Rallly,https://seoroast.com/rallly,not_reviewed,,,,,unknown
+27,Fast Pass Driving Tests,https://seoroast.com/fastpassdrivingtests,not_reviewed,,,,,unknown
 28,Client Portal,https://seoroast.com/client-portal-io,read,16:42,client-portal-io.md,0,,false
-29,Paytience,,not_reviewed,,,,,unknown
-30,SparkSocial,,not_reviewed,,,,,unknown
-31,Popp World,,not_reviewed,,,,,unknown
+29,Paytience,https://seoroast.com/paytience,not_reviewed,,,,,unknown
+30,SparkSocial,https://seoroast.com/sparksocial,not_reviewed,,,,,unknown
+31,Popp World,https://seoroast.com/poppworld,not_reviewed,,,,,unknown
 32,ProductLift,https://seoroast.com/productlift,read,14:25,productlift.md,0,,false
 33,Resend,https://seoroast.com/resend,read,18:57,resend.md,0,,false
-34,Sheet2API,,not_reviewed,,,,,unknown
-35,Coindive,,not_reviewed,,,,,unknown
-36,Liftosaur,,not_reviewed,,,,,unknown
-37,PopaDex,,not_reviewed,,,,,unknown
-38,Typefully,,not_reviewed,,,,,unknown
-39,Sync2Sheets,,not_reviewed,,,,,unknown
-40,CrownTV,,not_reviewed,,,,,unknown
-41,StealthGPT,,not_reviewed,,,,,unknown
-42,Botster,,not_reviewed,,,,,unknown
-43,BetterWorld,,not_reviewed,,,,,unknown
-44,Niche Tools,,not_reviewed,,,,,unknown
-45,Italian Gourmet Shop,,not_reviewed,,,,,unknown
-46,IconBuddy,,not_reviewed,,,,,unknown
-47,BetterPic,,not_reviewed,,,,,unknown
-48,Klu,,not_reviewed,,,,,unknown
-49,Guinea Pig,,not_reviewed,,,,,unknown
-50,Inbox Zero,,not_reviewed,,,,,unknown
+34,Sheet2API,https://seoroast.com/sheet2api,not_reviewed,,,,,unknown
+35,Coindive,https://seoroast.com/coindive,not_reviewed,,,,,unknown
+36,Liftosaur,https://seoroast.com/liftosaur,not_reviewed,,,,,unknown
+37,PopaDex,https://seoroast.com/popadex,not_reviewed,,,,,unknown
+38,Typefully,https://seoroast.com/typefully,not_reviewed,,,,,unknown
+39,Sync2Sheets,https://seoroast.com/sync2sheets,not_reviewed,,,,,unknown
+40,CrownTV,https://seoroast.com/crowntv,not_reviewed,,,,,unknown
+41,StealthGPT,https://seoroast.com/stealthgpt,not_reviewed,,,,,unknown
+42,Botster,https://seoroast.com/botster,not_reviewed,,,,,unknown
+43,BetterWorld,https://seoroast.com/betterworld,not_reviewed,,,,,unknown
+44,Niche Tools,https://seoroast.com/nichetools,not_reviewed,,,,,unknown
+45,Italian Gourmet Shop,https://seoroast.com/italiangourmetshop,not_reviewed,,,,,unknown
+46,IconBuddy,https://seoroast.com/iconbuddy,not_reviewed,,,,,unknown
+47,BetterPic,https://seoroast.com/betterpic,not_reviewed,,,,,unknown
+48,Klu,https://seoroast.com/klu,not_reviewed,,,,,unknown
+49,Guinea Pig,https://seoroast.com/guineapig,not_reviewed,,,,,unknown
+50,Inbox Zero,https://seoroast.com/inbox-zero,not_reviewed,,,,,unknown

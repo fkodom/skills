@@ -1,6 +1,6 @@
 # Source index
 
-**Comprehensive review is incomplete: 9 of 50 cataloged transcripts reviewed, 41 unread, and no full transcript files saved.** The [coverage register](coverage.csv) lists the entire 50-item pack catalog observed at [SEO Roast](https://seoroast.com/transcripts) on October 14, 2026. It is based on the earlier catalog inspection, not a new browser fetch. Blank source URLs have not yet been individually verified; do not guess them. Individual source notes below cover only the reviewed subset.
+**Comprehensive review is incomplete: 18 of 50 cataloged transcripts reviewed; 32 remain incomplete (one preview-only, 31 unread). No full transcript files are saved.** The [coverage register](coverage.csv) lists all 50 sources and their URLs, verified against the signed-in [SEO Roast catalog](https://seoroast.com/transcripts) on October 14, 2026. The next reading starts at Blitz SEO Roast 1; see [the resume record](resume.md).
 
 Reviewed October 14, 2026. These are original research notes, not full transcripts. The full-transcript coverage below refers to the preceding reading session; no complete third-party transcript is vendored. See [research and imports](../research-sources.md).
 
@@ -15,5 +15,14 @@ Reviewed October 14, 2026. These are original research notes, not full transcrip
 | [Client Portal](client-portal-io.md) | 2024-08-28 | 16:42 | Transcript and chapter text |
 | [ProductLift](productlift.md) | 2024-08-19 | 14:25 | Transcript and chapter text |
 | [Resend](resend.md) | 2024-08-18 | 18:57 | Public transcript and chapter text |
+| [Sqrl](sqrl.md) | 2026-10-04 | 21:35 | Transcript and chapter text |
+| [PicSpot](picspot.md) | 2026-08-31 | 22:36 | Transcript and chapter text |
+| [Fundbat](fundbat.md) | 2026-08-28 | 28:17 | Transcript and chapter text |
+| [AIApply](aiapply.md) | 2026-08-18 | 42:34 | Transcript and chapter text |
+| [Verbatik](verbatik.md) | 2026-07-30 | 34:27 | Two selected images |
+| [Cloud Residents](cloud-residents.md) | 2026-07-14 | 14:26 | Transcript and chapter text |
+| [GroupsWatcher](groupswatcher.md) | 2026-06-13 | 14:08 | Transcript and chapter text |
+| [Virlo](virlo.md) | 2026-04-11 | 30:17 | Transcript and chapter text |
+| [Hormozi](hormozi.md) | 2026-01-03 | 18:36 | Transcript and chapter text |
 
 Read [primary guidance](primary-guidance.md) before treating an audit recommendation as a platform requirement. The initial nine-audit sample did not fulfill the user's request to review everything. Preserve its useful findings while completing the remaining sources; do not label the comprehensive research complete yet.

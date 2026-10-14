@@ -24,6 +24,8 @@ Keep a small benchmark set constant and rotate broader clusters on a defined sch
 
 Treat synonyms as a cluster until observed results or reader needs justify different pages. Do not assign one new URL per keyword. Keep a suggested destination for editorial planning, but count the company's actual appearing URL in measurement.
 
+Check ambiguous terms against the actual results and audience. A physical service and a similarly named software service may share a phrase while answering different needs. Likewise, an expatriate and a foreign applicant may need different instructions even when their searches overlap. An estimated zero-volume phrase remains a research candidate when a concrete customer question supports it; it is not proof of demand. See [Cloud Residents](sources/cloud-residents.md).
+
 ## Inspect the results themselves
 
 For a small representative set, read actual high-visibility primary pages. Record the page's reader, opening answer, structure, example, proof, currentness, author/source basis and next step. Separately note source types: vendor, publisher, directory, community, official documentation or video.

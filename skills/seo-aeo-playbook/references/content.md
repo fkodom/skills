@@ -25,6 +25,10 @@ Select a useful asset:
 
 Use existing product UI when available. Mark mockups, fictional data and untested scenarios. Avoid exposing client records or turning decorative AI imagery into supposed product proof. Inspect final assets on mobile; do not count an image buried in metadata as a visible example.
 
+Match proof to the output: an audio product needs an audible example; a generated-video product needs a video; a workflow needs its inputs and resulting record. Record comparable inputs, settings and observed failures. A narrated test can supply an article, screenshots and a short demonstration without inventing separate evidence for each format. See [Verbatik](sources/verbatik.md) and [AIApply](sources/aiapply.md).
+
+For directory or data pages, ask which fields let a visitor make a decision, how facts are verified, and when they are updated. A large record count or many filter combinations cannot replace useful, distinct pages. Never turn private customer records into public search assets without permission. See [Fundbat](sources/fundbat.md) and [Hormozi](sources/hormozi.md).
+
 ## Compare without guessing
 
 Choose criteria that matter to the buyer, not rows invented to award the sponsor more checkmarks. Separate documented capability, directly tested behavior, configuration-dependent support and unknown information. “Not documented in the sources reviewed” does not mean “does not exist.” Cite current official product sources near claims and record access dates.

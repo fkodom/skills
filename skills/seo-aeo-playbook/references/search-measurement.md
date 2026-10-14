@@ -27,3 +27,5 @@ Use `source_overlap.py` for grouping URL/domain appearances. It deliberately doe
 ## Learn from recurring sources
 
 Inspect recurring pages across completed samples. Classify audience and source type manually, then determine what contribution might earn relevant attention. Source overlap identifies review candidates, not causality or Google's hidden algorithm. Keep neutral evidence collection ahead of topic selection and brand-specific experiments.
+
+Audit the panel itself: a citation list built from keywords the site already ranks for will favor sources that already include it. Label that selection bias rather than calling the list representative. Check the exact product name and destination behind a citation; a similarly named provider is not a valid company appearance. Separate root-domain, customer-subdomain, branded and country-specific traffic before interpreting competitor totals. See [GroupsWatcher](sources/groupswatcher.md), [PicSpot](sources/picspot.md) and [Virlo](sources/virlo.md).
