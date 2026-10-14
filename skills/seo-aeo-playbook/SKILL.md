@@ -14,6 +14,8 @@ Work from a reader's problem to a useful page, then to discovery, trust and a bu
 3. Reuse prior evidence with its original date. Check for an existing run or draft before repeating it. Record inaccessible surfaces as unavailable, never as zero results.
 4. Load only the relevant topic files below. Start with **diagnosis** for a strategy refresh, **technical** for an indexing complaint, or **backlinks** for reputation work.
 
+When the user requests a complete corpus review, inventory the whole corpus and track each source. Do not substitute a sample without agreement. Report reviewed, unread and unavailable counts, and keep the research marked incomplete while requested sources remain unread.
+
 ## Topic map
 
 | Task | Read | Produce |
@@ -36,6 +38,8 @@ Work from a reader's problem to a useful page, then to discovery, trust and a bu
 - **Outcome:** a verified release, indexed URL, live reference or attributed conversion. A submission, draft or pitch is not an outcome.
 
 The [source index](references/sources/index.md) includes nine SEO Roast audit notes and [primary platform guidance](references/sources/primary-guidance.md). Audit examples describe the recording date. Their claims about ranking causes are not controlled experiments. Consult current primary documentation when a recommendation depends on changing platform rules.
+
+**Current research coverage: 9 of 50 cataloged transcripts reviewed; 41 unread.** The comprehensive review is incomplete. See the [coverage register](references/sources/coverage.csv); the nine notes support provisional guidance, not a claim to have analyzed the entire library.
 
 ## Complete a useful work cycle
 

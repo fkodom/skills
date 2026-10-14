@@ -4,6 +4,8 @@
 
 The [source index](sources/index.md) contains original timestamped notes from nine SEO Roast audits reviewed on October 14, 2026. The preceding research read their complete available transcripts, inspected nine selected audit images and one paused PostEverywhere frame near 8:00. It did not watch every video end to end. Full transcript files were not archived or included in this repository.
 
+That was incomplete coverage of the user's request. The catalog inspected on that date listed 50 audits. Track all 50 in [coverage.csv](sources/coverage.csv), leaving the 41 unread entries explicit. A successful import is not a completed reading, and a transcript reading is not a full-video review. Reconcile those coverage dimensions separately before claiming completion.
+
 Keep three source layers separate: the speaker's words, the visual material actually inspected, and our interpretation. A chapter summary may be machine-generated and may overstate the spoken claim. Prefer the exact timestamped evidence when they disagree. Old audit metrics remain historical; never report them as current competitor facts.
 
 ## Add complete local transcripts
