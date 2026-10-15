@@ -32,6 +32,8 @@ For a small representative set, read actual high-visibility primary pages. Recor
 
 Ask what a reader still cannot do after reading them. A gap is a hypothesis within this inspected sample, not a market-wide vacancy. Useful contributions may be a completed example, honest tradeoff table, tested workflow, original dataset or a practical tool. Rewording the competitor's prose is not a contribution.
 
+Match distribution to that task too: a video demonstration, specialist discussion or creator review may serve it better than another general article. Inspect the audience and commercial relationship before proposing participation. [Paytience](sources/paytience.md) supplies examples, not evidence of guaranteed reach or permission to post.
+
 Competitor paid keywords are another source of hypotheses. They show observed bidding, not profitable conversion or suitable intent. Confirm the audience and actual page before adding a term. For example, joining an affiliate program and purchasing affiliate-management software are different jobs. See [Tolt](sources/tolt.md).
 
 ## Decide build versus update

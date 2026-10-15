@@ -24,18 +24,18 @@ catalog_position,name,source_url,transcript_review,read_through,note_file,select
 23,Friends & Fables,https://seoroast.com/fables,read,15:30,fables.md,0,,false
 24,Memo Cards,https://seoroast.com/memo-cards,read,17:09,memo-cards.md,0,,false
 25,Backpack,https://seoroast.com/backpack-laravel,read,14:28,backpack-laravel.md,0,,false
-26,Rallly,https://seoroast.com/rallly,preview_only,1:29,,0,,false
-27,Fast Pass Driving Tests,https://seoroast.com/fastpassdrivingtests,not_reviewed,,,,,unknown
+26,Rallly,https://seoroast.com/rallly,read,16:11,rallly.md,0,,false
+27,Fast Pass Driving Tests,https://seoroast.com/fastpassdrivingtests,read,14:48,fastpassdrivingtests.md,0,,false
 28,Client Portal,https://seoroast.com/client-portal-io,read,16:42,client-portal-io.md,0,,false
-29,Paytience,https://seoroast.com/paytience,not_reviewed,,,,,unknown
-30,SparkSocial,https://seoroast.com/sparksocial,not_reviewed,,,,,unknown
-31,Popp World,https://seoroast.com/poppworld,not_reviewed,,,,,unknown
+29,Paytience,https://seoroast.com/paytience,read,19:34,paytience.md,0,,false
+30,SparkSocial,https://seoroast.com/sparksocial,read,10:57,sparksocial.md,0,,false
+31,Popp World,https://seoroast.com/poppworld,read,16:00,poppworld.md,0,,false
 32,ProductLift,https://seoroast.com/productlift,read,14:25,productlift.md,0,,false
 33,Resend,https://seoroast.com/resend,read,18:57,resend.md,0,,false
-34,Sheet2API,https://seoroast.com/sheet2api,not_reviewed,,,,,unknown
-35,Coindive,https://seoroast.com/coindive,not_reviewed,,,,,unknown
-36,Liftosaur,https://seoroast.com/liftosaur,not_reviewed,,,,,unknown
-37,PopaDex,https://seoroast.com/popadex,not_reviewed,,,,,unknown
+34,Sheet2API,https://seoroast.com/sheet2api,read,14:54,sheet2api.md,0,,false
+35,Coindive,https://seoroast.com/coindive,read,14:41,coindive.md,0,,false
+36,Liftosaur,https://seoroast.com/liftosaur,read,16:21,liftosaur.md,0,,false
+37,PopaDex,https://seoroast.com/popadex,preview_only,1:29,,0,,false
 38,Typefully,https://seoroast.com/typefully,not_reviewed,,,,,unknown
 39,Sync2Sheets,https://seoroast.com/sync2sheets,not_reviewed,,,,,unknown
 40,CrownTV,https://seoroast.com/crowntv,not_reviewed,,,,,unknown

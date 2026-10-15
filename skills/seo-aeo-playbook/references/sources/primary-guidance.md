@@ -1,6 +1,6 @@
 # Primary guidance registry
 
-Base references checked October 14, 2026; migration and crawler checks added October 15, 2026. Recheck the responsible source before a material platform-dependent change. The playbook's implementation examples are our synthesis; the following links support specific platform facts.
+Base references checked October 14, 2026; migration and crawler checks added October 15, 2026. Link extraction, paid-link qualification and link-spam guidance were rechecked during the October 15 10 a.m. continuation. Recheck the responsible source before a material platform-dependent change. The playbook's implementation examples are our synthesis; the following links support specific platform facts.
 
 | Source | Use it to verify |
 | --- | --- |

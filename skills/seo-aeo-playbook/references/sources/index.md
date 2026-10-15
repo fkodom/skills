@@ -1,6 +1,6 @@
 # Source index
 
-**Comprehensive review is incomplete: 28 of 50 cataloged transcripts reviewed; 22 remain incomplete (one preview-only, 21 unread). No full transcript files are saved.** The [coverage register](coverage.csv) lists all 50 sources and their URLs, verified against the signed-in [SEO Roast catalog](https://seoroast.com/transcripts) on October 14, 2026. The next reading starts at Rallly; see [the resume record](resume.md).
+**Comprehensive review is incomplete: 36 of 50 cataloged transcripts reviewed; 14 remain incomplete (one preview-only, 13 unread). No full transcript files are saved.** The [coverage register](coverage.csv) lists all 50 sources and their URLs, verified against the signed-in [SEO Roast catalog](https://seoroast.com/transcripts) on October 14, 2026. The next reading starts at PopaDex; see [the resume record](resume.md).
 
 Reviewed October 14–15, 2026. These are original research notes, not full transcripts. The full-transcript coverage below refers to the preceding reading session; no complete third-party transcript is vendored. See [research and imports](../research-sources.md).
 
@@ -34,5 +34,14 @@ Reviewed October 14–15, 2026. These are original research notes, not full tran
 | [Friends & Fables](fables.md) | 2024-10-07 | 15:30 | Transcript; no selected visuals |
 | [Memo Cards](memo-cards.md) | 2024-10-07 | 17:09 | Transcript; no selected visuals |
 | [Backpack](backpack-laravel.md) | 2024-09-12 | 14:28 | Transcript; no selected visuals |
+
+| [Rallly](rallly.md) | 2024-09-01 | 16:11 | Transcript; no selected visuals |
+| [Fast Pass Driving Tests](fastpassdrivingtests.md) | 2024-08-31 | 14:48 | Transcript; no selected visuals |
+| [Paytience](paytience.md) | 2024-08-22 | 19:34 | Transcript; no selected visuals |
+| [SparkSocial](sparksocial.md) | 2024-08-21 | 10:57 | Transcript; no selected visuals |
+| [Popp World](poppworld.md) | 2024-08-20 | 16:00 | Transcript; no selected visuals |
+| [Sheet2API](sheet2api.md) | 2024-08-16 | 14:54 | Transcript; no selected visuals |
+| [Coindive](coindive.md) | 2024-08-15 | 14:41 | Transcript; no selected visuals |
+| [Liftosaur](liftosaur.md) | 2024-08-14 | 16:21 | Transcript; no selected visuals |
 
 Read [primary guidance](primary-guidance.md) before treating an audit recommendation as a platform requirement. The initial nine-audit sample did not fulfill the user's request to review everything. Preserve its useful findings while completing the remaining sources; do not label the comprehensive research complete yet.

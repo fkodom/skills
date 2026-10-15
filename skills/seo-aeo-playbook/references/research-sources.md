@@ -2,13 +2,13 @@
 
 ## What this skill contains
 
-The [source index](sources/index.md) contains original timestamped notes from 28 SEO Roast audits reviewed on October 14–15, 2026. The preceding research read their complete available transcripts, inspected 13 selected audit images and one paused PostEverywhere frame near 8:00. It did not watch every video end to end. Full transcript files were not archived or included in this repository.
+The [source index](sources/index.md) contains original timestamped notes from 36 SEO Roast audits reviewed on October 14–15, 2026. The preceding research read their complete available transcripts, inspected 13 selected audit images and one paused PostEverywhere frame near 8:00. It did not watch every video end to end. Full transcript files were not archived or included in this repository.
 
-That was incomplete coverage of the user's request. The catalog inspected on October 14 listed 50 audits. Track all 50 in [coverage.csv](sources/coverage.csv), leaving the 22 incomplete entries explicit (one preview-only and 21 unread). A successful import is not a completed reading, and a transcript reading is not a full-video review. Reconcile those coverage dimensions separately before claiming completion.
+That was incomplete coverage of the user's request. The catalog inspected on October 14 listed 50 audits. Track all 50 in [coverage.csv](sources/coverage.csv), leaving the 14 incomplete entries explicit (one preview-only and 13 unread). A successful import is not a completed reading, and a transcript reading is not a full-video review. Reconcile those coverage dimensions separately before claiming completion.
 
 Keep three source layers separate: the speaker's words, the visual material actually inspected, and our interpretation. A chapter summary may be machine-generated and may overstate the spoken claim. Prefer the exact timestamped evidence when they disagree. Old audit metrics remain historical; never report them as current competitor facts.
 
-The October 15 continuation completed ten more transcripts, including Blitz SEO Roast 1, then reached the hourly reading limit at Rallly. See [the resume record](sources/resume.md) for the exact stopping point and unfinished synthesis.
+The October 15 morning sync completed ten transcripts, then the 10 a.m. Eastern continuation completed eight more. The hourly limit returned at PopaDex. See [the resume record](sources/resume.md) for the exact stopping point and unfinished synthesis.
 
 ## Add complete local transcripts
 

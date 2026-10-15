@@ -25,6 +25,8 @@ python3 scripts/audit_site.py \
 
 ## Verify supplied backlinks
 
+Use `assets/competitor-link-review.csv` for the manual export review described in [backlinks](backlinks.md). It records acquisition scope and link mechanisms; it is not an outreach list or a backlink-checker input. Copy qualified source/destination pairs into the candidate schema below. Keep completed worksheets private.
+
 Populate a private copy of `assets/backlink-candidates.csv`. Only `source_url` and `target_url` are required for the checker; other columns support human qualification.
 
 ```bash

@@ -41,6 +41,8 @@ Match proof to the output: an audio product needs an audible example; a generate
 
 For directory or data pages, ask which fields let a visitor make a decision, how facts are verified, and when they are updated. A large record count or many filter combinations cannot replace useful, distinct pages. Never turn private customer records into public search assets without permission. See [Fundbat](sources/fundbat.md) and [Hormozi](sources/hormozi.md).
 
+For location-based answers, useful differences may be access instructions, facilities or current restrictions, each with a source and update owner. For metric-based pages, explain the measure, inputs, freshness and limits. Compare fields against the reader's task before adding more prose. [Fast Pass Driving Tests](sources/fastpassdrivingtests.md) and [Coindive](sources/coindive.md).
+
 ## Build from real knowledge
 
 Capture an operator explaining or demonstrating the task. Extract the decisions, examples and failure cases; verify them; then use AI to organize and simplify the article. Retain the relevant source recording or notes privately. This supplies first-party substance without asking a model to invent experience. See [AI Suit Up](sources/aisuitup.md).

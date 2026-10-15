@@ -19,7 +19,27 @@ Keep two discovery opportunities separate:
 
 A company's mention inside a high-ranking directory is not its own-domain ranking. Inspect the listing's eligibility, accuracy and destination, and record whether it is vendor-controlled or independently written. Correct a renamed company's existing profile rather than creating misleading duplicate identities. [Blitz](sources/blitz-seo-1.md) and [Memo Cards](sources/memo-cards.md).
 
-## Keep a usable register
+## Review competitor link exports
+
+Before qualifying prospects, review competitor exports with [the link-review worksheet](../assets/competitor-link-review.csv). Record provider, capture date, root-domain or page scope, filters, row limit and completeness. An overlap between several competitors is a useful lead, not proof that a publisher will accept us. A truncated export cannot establish that a link is missing. Group repeated source URLs and domains without erasing their individual destinations.
+
+## Identify why the link exists
+
+Inspect the source and destination before turning an export row into outreach:
+
+| Observed mechanism | What to establish |
+| --- | --- |
+| Editorial citation | Which reader question the linked resource answers |
+| Vendor profile or resource list | Eligibility, accuracy and who controls the description |
+| Partner, affiliate or sponsored reference | The actual relationship and required disclosure/qualification |
+| Public product output or attribution | Public-sharing intent, permission and the useful destination |
+| API, script or embedded resource | Whether a reader-facing anchor exists at all |
+
+[Rallly](sources/rallly.md) illustrates public outputs; [Sheet2API](sources/sheet2api.md) exposes the risk of mistaking API references for editorial opportunities. A technical reference alone proves neither a current customer relationship nor an endorsement. Google generally extracts crawlable links from anchors with an `href`; inspect rendered content when necessary. [Google link guidance](https://developers.google.com/search/docs/crawling-indexing/links-crawlable).
+
+Do not make private product records public to generate links. Do not insert hidden or keyword-rich widget links or require unqualified ranking links in exchange for a service. [Google's link-spam examples](https://developers.google.com/search/docs/essentials/spam-policies#link-spam).
+
+## Qualify the next action
 
 Start from `assets/backlink-candidates.csv`. Track source URL, target URL, topic/reader question, contribution, source category, contact route, owner, approval status, lifecycle status, last action and next action. Keep private messages and personal contact exports outside public repositories.
 
@@ -28,6 +48,8 @@ Suggested lifecycle: `candidate → qualified → prepared → approved → sent
 ## Offer something worth citing
 
 A useful pitch explains why this audience benefits and offers one concrete asset: an original worked example, a technically accurate diagram, a fair test procedure, a factual correction or a customer-approved case study. Disclose affiliation and allow editorial judgment. Do not require praise, an exact anchor or a followed link.
+
+Describe the specific missing step, example or evidence the destination supplies. “Our article is longer” is not a reader benefit. Inspect links to the competing guide itself, not just domain totals, as illustrated by [SparkSocial](sources/sparksocial.md) and [Liftosaur](sources/liftosaur.md). [Popp World](sources/poppworld.md) also shows why a supplier relationship may not be reproducible through an editorial pitch.
 
 Drafting is not permission to send. Use existing user authorization where it covers the recipient, channel, identity and message scope. Ask only when the necessary authorization is missing. Do not create new batches or recurring follow-ups just because the research produces candidates.
 
