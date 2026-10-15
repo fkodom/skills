@@ -25,7 +25,7 @@ When the user requests a complete corpus review, inventory the whole corpus and 
 | Inspect indexing, migrations or performance | [Technical discoverability](references/technical.md) | Exact URLs, findings, scope and verification |
 | Draft or improve an article | [Content and product proof](references/content.md) | Brief, usable asset, supported copy, matched next step |
 | Measure Google and agent visibility | [Search sampling](references/search-measurement.md) | Raw evidence and comparable observations |
-| Find relevant independent references | [Backlinks and distribution](references/backlinks.md) | Qualified source-page register and approved next actions |
+| Find relevant independent references | [Backlinks and distribution](references/backlinks.md) | Existing-page inclusion opportunities, bounded follow-ups and verified placements |
 | Run an ongoing program | [Workflow and evaluation](references/workflow.md) | Dated review, update queue, outcome measures |
 | Add transcripts or inspect audit claims | [Research sources](references/research-sources.md) | Provenance, coverage and timestamped notes |
 | Run bundled tools | [Scripts and formats](references/tooling.md) | Reproducible local JSON reports |

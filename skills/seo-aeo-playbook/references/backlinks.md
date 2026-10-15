@@ -49,6 +49,10 @@ Suggested lifecycle: `candidate → qualified → prepared → approved → sent
 
 A useful pitch explains why this audience benefits and offers one concrete asset: an original worked example, a technically accurate diagram, a fair test procedure, a factual correction or a customer-approved case study. Disclose affiliation and allow editorial judgment. Do not require praise, an exact anchor or a followed link.
 
+For competitor-backlink outreach, prefer a useful addition to an existing relevant article, comparison or resource list. Name the exact URL and section, ask directly to be considered for inclusion, and supply a short factual addition plus one supporting demo or resource. Ask what the editor needs to evaluate it and whether the process involves fees or partner terms. A ready-to-use addition reduces the work required of the publisher; a vague offer to contribute a future article does not make the same request.
+
+Confirm that the page is suitable for multiple providers or for the proposed example. A dedicated review of a competitor is research context, not automatically an insertion opportunity. Distinguish measured page visibility from a page merely found in a backlink export. Propose a new article, podcast or webinar when there is a specific reader benefit, an invitation or explicit user preference; explain why the extra work is justified instead of making it the default.
+
 Describe the specific missing step, example or evidence the destination supplies. “Our article is longer” is not a reader benefit. Inspect links to the competing guide itself, not just domain totals, as illustrated by [SparkSocial](sources/sparksocial.md) and [Liftosaur](sources/liftosaur.md). [Popp World](sources/poppworld.md) also shows why a supplier relationship may not be reproducible through an editorial pitch.
 
 Drafting is not permission to send. Use existing user authorization where it covers the recipient, channel, identity and message scope. Ask only when the necessary authorization is missing. Do not create new batches or recurring follow-ups just because the research produces candidates.
@@ -62,5 +66,9 @@ Fetch the public source URL and inspect the actual anchor, destination, surround
 `check_backlinks.py` reports exact target anchors in fetched HTML. A blocked/non-HTML/failed response is unavailable, not absent. An absent raw-HTML anchor needs rendered verification before a final conclusion. Google indexing remains unknown unless separately evidenced; the script cannot certify indexing or link equity.
 
 ## Evaluate outcomes
+
+Treat reputation building as an ongoing program with bounded individual conversations. When recurring work is authorized, use the project's cadence to check replies, keep promises, qualify new source pages and maintain live references. Track the latest inbound/outbound message, next action and date, follow-up count, approval scope, owner and any stop reason. A daily check does not justify a daily email.
+
+As a starting cadence for an unanswered cold pitch, propose one concise follow-up after 7–10 business days, subject to the user's send permissions and the publisher's stated timeline. Then park the conversation unless the recipient responds or there is a substantive new reason to reconnect. Respect declines, opt-outs, delivery failures and teammate ownership; do not switch channels to restart the same pitch. Review paused opportunities when there is new evidence, rather than recycling the original request indefinitely.
 
 Track useful replies, verified live references, referral visits and genuine attributed actions separately. Review source quality, accurate entity description and reader fit before expanding volume. Proprietary DR/DA metrics may help compare candidates within one tool; they are not Google's scoring system and should not drive the plan alone. [Ahrefs DR definition](https://ahrefs.com/seo/glossary/domain-rating).

@@ -32,6 +32,8 @@ Public repositories should contain compact decisions, approved briefs and conten
 
 Scheduling requires a user request. Use the available scheduler and preserve existing prompts, ownership and notification preferences. This reference suggests a sequence, not an instruction to create or modify automations. A project can keep a small daily benchmark and a broader weekly rotation.
 
+For an authorized ongoing backlink program, separate the cadences: daily reply and due-action review, weekly source-page qualification and tailored draft preparation, and monthly placement maintenance and outcome review. Record the project's timezone and account for daylight saving time. Update an existing matching monitor before creating another. A long-lived program needs refreshed opportunities and useful publisher relationships, while each unanswered pitch still needs a stop point. See [backlinks and distribution](backlinks.md) for inclusion requests, follow-up boundaries and tracking fields.
+
 ## Keep an improvement queue
 
 Review up to three existing pages in a weekly strategy pass. Use [the improvement worksheet](../assets/page-improvement.csv) to record the observed query, reader job, missing answer, useful asset, owner and review window. Start with a page that already reaches the right audience but leaves a specific question unanswered; do not equate adding length with improving it. [Backpack](sources/backpack-laravel.md). This complements new content rather than creating a second treatment of the same question.
