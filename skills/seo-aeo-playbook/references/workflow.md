@@ -34,7 +34,7 @@ Scheduling requires a user request. Use the available scheduler and preserve exi
 
 ## Keep an improvement queue
 
-Review up to three existing pages in a weekly strategy pass. Record URL, reader job, observed shortcoming, proposed improvement, asset needed, owner, status and review date. This complements new content rather than creating a second treatment of the same question.
+Review up to three existing pages in a weekly strategy pass. Use [the improvement worksheet](../assets/page-improvement.csv) to record the observed query, reader job, missing answer, useful asset, owner and review window. Start with a page that already reaches the right audience but leaves a specific question unanswered; do not equate adding length with improving it. [Backpack](sources/backpack-laravel.md). This complements new content rather than creating a second treatment of the same question.
 
 Keep separately tracked streams when useful: educational reference pages, promoted blog articles, product pages, earned-reference opportunities and technical issues. Each has different evidence and approval needs. Do not force one new article in every stream each day.
 

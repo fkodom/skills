@@ -32,6 +32,8 @@ For a small representative set, read actual high-visibility primary pages. Recor
 
 Ask what a reader still cannot do after reading them. A gap is a hypothesis within this inspected sample, not a market-wide vacancy. Useful contributions may be a completed example, honest tradeoff table, tested workflow, original dataset or a practical tool. Rewording the competitor's prose is not a contribution.
 
+Competitor paid keywords are another source of hypotheses. They show observed bidding, not profitable conversion or suitable intent. Confirm the audience and actual page before adding a term. For example, joining an affiliate program and purchasing affiliate-management software are different jobs. See [Tolt](sources/tolt.md).
+
 ## Decide build versus update
 
 Match the job to the inventory before creating a brief. Update the strongest existing page if the intent overlaps. Create a new page for a distinct need that merits its own answer. Consolidation requires checking actual traffic, links, canonicals and redirects; do not delete an older page solely because its title resembles another.

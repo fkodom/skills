@@ -1,19 +1,23 @@
 # Research resume record
 
-Last reading: October 14, 2026. **18/50 full available transcripts reviewed; 32 remain incomplete.** The coverage CSV is the source of truth, including URLs verified against the catalog. Source notes preserve original findings with timestamp anchors; complete transcript files have not been archived.
+Last reading: October 15, 2026. **28/50 full available transcripts reviewed; 22 remain incomplete.** The coverage CSV is the source of truth. Source notes preserve original findings with timestamp anchors; complete transcript files have not been archived.
 
 ## Where to resume
 
-Start with [Blitz SEO Roast 1](https://seoroast.com/blitz-seo-1). At about 20:49 UTC on October 14, its transcript panel reported the hourly limit and offered only the first 90 seconds, through 1:29. This is a partial preview, not a completed reading. The user asked to try again the next morning after misplacing the separately purchased pack. A single follow-up is scheduled for October 15 at 9 a.m. Eastern.
+Start with [Rallly](https://seoroast.com/rallly), catalog entry 26. At 12:19:15 UTC on October 15, its panel reported the hourly limit and said to try again in 54 minutes. Only 23 preview segments through 1:29 were available, versus the page's stated 237. This is not a completed reading.
 
-Continue the remaining `preview_only` and `not_reviewed` rows in catalog order. Do not repeat the 18 completed sources, substitute summaries for unread transcripts, or declare the library complete while entries remain. Respect the website's access and hourly limits. Record a fresh blocker and actual count if the next pass is limited too.
+The October 15 morning attempt restored full access and completed ten further readings before the limit returned. The later `finish-seo-roast-research` job was deleted after access worked, as the user requested. No replacement job was created.
+
+Continue `preview_only` and `not_reviewed` rows in catalog order. Skip already completed Client Portal, ProductLift and Resend. Respect access and hourly limits, and do not substitute chapter summaries for unread transcripts. Report the actual remaining count if limited again.
 
 ## What was saved
 
-Nine additional notes cover Sqrl, PicSpot, Fundbat, AIApply, Verbatik, Cloud Residents, GroupsWatcher, Virlo and Hormozi. All available transcript segments were read. Two Verbatik comparison screenshots were inspected; the nine videos were not watched end to end. Selected image files and compact acquisition metadata are stored privately under `/Users/fkodom/Documents/lighthouse/seo-content-evidence/2026-10-14/seo-roast-research/continuation/`.
+Ten new notes cover Blitz SEO Roast 1, Nomad List, Good Enough Logos, Trendin, Hoverify, Tolt, AI Suit Up, Friends & Fables, Memo Cards and Backpack. All available segments were read. Two Hoverify screenshots were inspected; these videos were not watched end to end. Selected images and compact acquisition metadata are private under `/Users/fkodom/Documents/lighthouse/seo-content-evidence/2026-10-15/seo-roast-research/`.
 
-The public skill contains original notes and source links. The initial research Page, “SEO Roast research for Lighthouse Legal,” still describes the original nine-source pass and needs reconciliation during the next synthesis.
+The public skill contains original notes and source links. The separate research Page, “SEO Roast research for Lighthouse Legal,” was reconciled to 28 reviewed sources and the new methods on October 15. Across both dates the visual coverage is thirteen selected images and one paused PostEverywhere frame. Transcript, image and video coverage remain separate.
 
-## Synthesis to continue
+## Synthesis in this pass
 
-Integrate useful new methods into the topic guides as sources are completed. In this pass the reusable additions were: matching proof to the product's output; checking namesakes and source-panel selection bias; mapping distinct audiences before grouping similar phrases; and evaluating public data pages by useful fields and reliable updates rather than volume. Treat paid or reciprocal link ideas and unsupported ranking claims as claims to evaluate, not instructions to adopt. Finish a cross-source synthesis after the remaining readings; do not force every audit into a new checklist item.
+The topic guides now include task-to-format decisions, relevant deep-page destinations for backlink research, separate tracking of marketplace discovery, capture of operator knowledge, and useful public data relationships. Two worksheets support migration checks and improvements to existing pages.
+
+Migration guidance was checked against current primary sources: relative Location headers are valid, and a spoofed user-agent is not verified Googlebot. Review sources independently rather than turning confident audit claims into platform rules. Finish the cross-source synthesis after the remaining readings; do not force every audit into a new checklist item.

@@ -6,6 +6,18 @@ Use `assets/content-brief.md`. Specify one reader question, the decision or task
 
 Keep broad discovery content distinct from promotional blog work when the project uses both. A learning/resource collection can sit outside the main blog feed while remaining linked, readable and crawlable. “Hidden” must not mean presenting different facts to crawlers, hiding keyword blocks or publishing orphan pages merely to inflate volume.
 
+## Choose the useful format
+
+| Reader wants to… | Deliver on the page | Check before creating it |
+| --- | --- | --- |
+| Use a template | Blank template, completed example and adaptation instructions | Can it be used without visiting a list of providers? |
+| Perform a task | Working input/output or a clear manual procedure | Does the next step preserve the task and entered information? |
+| Choose a service | Scope, setup, evidence and meaningful tradeoffs | Is the offer relevant to this reader? |
+| Find examples | Inspectable examples with useful categories | Are the examples real, distinct and permitted to share? |
+| Learn a process | A direct explanation followed by actual steps | Does a beginner have enough context to start? |
+
+This decision aid synthesizes [Blitz](sources/blitz-seo-1.md), [Good Enough Logos](sources/goodenoughlogos.md) and [Trendin](sources/trendin.md). A search phrase is an input to research, not an instruction to produce a blog post. Keep the page useful before its sales invitation.
+
 ## Lead with the answer
 
 Use plain nouns and verbs. Explain an unfamiliar term once. Give the reader the answer before the background. Default to short, descriptive subheadings; follow the project's editorial conventions. Remove paragraphs that restate the heading or delay the practical step.
@@ -28,6 +40,12 @@ Use existing product UI when available. Mark mockups, fictional data and unteste
 Match proof to the output: an audio product needs an audible example; a generated-video product needs a video; a workflow needs its inputs and resulting record. Record comparable inputs, settings and observed failures. A narrated test can supply an article, screenshots and a short demonstration without inventing separate evidence for each format. See [Verbatik](sources/verbatik.md) and [AIApply](sources/aiapply.md).
 
 For directory or data pages, ask which fields let a visitor make a decision, how facts are verified, and when they are updated. A large record count or many filter combinations cannot replace useful, distinct pages. Never turn private customer records into public search assets without permission. See [Fundbat](sources/fundbat.md) and [Hormozi](sources/hormozi.md).
+
+## Build from real knowledge
+
+Capture an operator explaining or demonstrating the task. Extract the decisions, examples and failure cases; verify them; then use AI to organize and simplify the article. Retain the relevant source recording or notes privately. This supplies first-party substance without asking a model to invent experience. See [AI Suit Up](sources/aisuitup.md).
+
+For an approved public dataset, sketch its relationships before generating pages: an entity, a useful category, a reverse lookup or a dated aggregate. Give each proposed view a reader question, required fields, source, update owner and expiry rule. Start with a few representative pages and check whether they answer different questions. [Hoverify](sources/hoverify.md) supplies an architectural example, not a reason to expose customer data or generate every combination.
 
 ## Compare without guessing
 

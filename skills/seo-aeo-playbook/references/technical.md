@@ -20,6 +20,17 @@ Canonical is a signal, not a guarantee of Google's choice. Inspect user-declared
 
 Primary checks: [canonical consolidation](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls), [sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview), [robots meta tags](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag).
 
+## Diagnose a site move
+
+Use [the migration worksheet](../assets/migration-review.csv). Start with old URLs that had useful traffic or references, then map each to its intended replacement. Record the observed chain, final content, canonical and Search Console crawl date. Include legacy help, pricing and app subdomains; a login redirect may hide a formerly public answer. See [Nomad List](sources/nomadlist.md) and [Friends & Fables](sources/fables.md).
+
+For a permanent move, test direct permanent redirects to corresponding replacements, refresh internal links and preferred sitemap URLs, and monitor old and new locations. Use [Google's migration guidance](https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes). Do not prescribe another domain move merely because old results remain visible.
+
+Two checks prevent false diagnoses:
+
+- A relative `Location` header is valid HTTP. Resolve it against the request URI and check the resulting chain; do not flag it solely for lacking a hostname. [RFC 9110 section 10.2.2](https://www.rfc-editor.org/rfc/rfc9110.html#name-location).
+- A request with a Googlebot user-agent string is not verified Googlebot. Check relevant Search Console evidence and identify crawler requests through published IP ranges or reverse-and-forward DNS verification before attributing a block to Google's crawler. [Google request verification](https://developers.google.com/crawling/docs/crawlers-fetchers/verify-google-requests).
+
 ## Separate crawl and index
 
 Robots.txt controls crawling; blocking a URL there is not a reliable substitute for an accessible noindex directive. A successful live inspection establishes current accessibility, not existing inclusion in the index. Request indexing for an important changed URL when authorized, once the page is ready; repeated requests are not a speed strategy. Maintain the sitemap rather than uploading a new copy for every post. [URL Inspection](https://support.google.com/webmasters/answer/9012289) and [recrawl requests](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl).

@@ -6,6 +6,17 @@ Use actual recurring search/AI source pages, relevant industry resources, genuin
 
 Qualify the exact source page: audience fit, topical context, maintenance, editorial independence, linked destination and what would improve that page for its reader. Distinguish a vendor-controlled profile, customer reference, publisher article, partner listing, forum post and sitewide footer. A relevant nofollow mention can still send qualified readers; a followed link does not guarantee ranking value.
 
+## Select the right destination
+
+Inspect the destination distribution in a competitor export: homepage, product page, comparison, guide, app/login or customer subdomain. Many referring domains to one home page do not show that a particular guide has strong discovery. Compare relevant pages as well as domains. For each qualified prospect, choose the page that answers its readers' question; do not route every request to the homepage. See [Tolt](sources/tolt.md).
+
+Keep two discovery opportunities separate:
+
+- **Our own result:** a page on the company's domain appears for the query.
+- **A third-party result:** an eligible marketplace listing, publisher article or directory lets that audience discover the company.
+
+A company's mention inside a high-ranking directory is not its own-domain ranking. Inspect the listing's eligibility, accuracy and destination, and record whether it is vendor-controlled or independently written. Correct a renamed company's existing profile rather than creating misleading duplicate identities. [Blitz](sources/blitz-seo-1.md) and [Memo Cards](sources/memo-cards.md).
+
 ## Keep a usable register
 
 Start from `assets/backlink-candidates.csv`. Track source URL, target URL, topic/reader question, contribution, source category, contact route, owner, approval status, lifecycle status, last action and next action. Keep private messages and personal contact exports outside public repositories.

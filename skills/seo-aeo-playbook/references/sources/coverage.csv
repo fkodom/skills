@@ -14,17 +14,17 @@ catalog_position,name,source_url,transcript_review,read_through,note_file,select
 13,Virlo,https://seoroast.com/virlo,read,30:17,virlo.md,0,,false
 14,Hormozi,https://seoroast.com/hormozi,read,18:36,hormozi.md,0,,false
 15,Cal.com,https://seoroast.com/cal,read,22:13,cal.md,0,,false
-16,Blitz SEO Roast 1,https://seoroast.com/blitz-seo-1,preview_only,1:29,,0,,false
-17,Nomad List,https://seoroast.com/nomadlist,not_reviewed,,,,,unknown
-18,Good Enough Logos,https://seoroast.com/goodenoughlogos,not_reviewed,,,,,unknown
-19,Trendin,https://seoroast.com/trendin,not_reviewed,,,,,unknown
-20,Hoverify,https://seoroast.com/hoverify,not_reviewed,,,,,unknown
-21,Tolt,https://seoroast.com/tolt,not_reviewed,,,,,unknown
-22,AI Suit Up,https://seoroast.com/aisuitup,not_reviewed,,,,,unknown
-23,Friends & Fables,https://seoroast.com/fables,not_reviewed,,,,,unknown
-24,Memo Cards,https://seoroast.com/memo-cards,not_reviewed,,,,,unknown
-25,Backpack,https://seoroast.com/backpack-laravel,not_reviewed,,,,,unknown
-26,Rallly,https://seoroast.com/rallly,not_reviewed,,,,,unknown
+16,Blitz SEO Roast 1,https://seoroast.com/blitz-seo-1,read,38:47,blitz-seo-1.md,0,,false
+17,Nomad List,https://seoroast.com/nomadlist,read,20:38,nomadlist.md,0,,false
+18,Good Enough Logos,https://seoroast.com/goodenoughlogos,read,9:59,goodenoughlogos.md,0,,false
+19,Trendin,https://seoroast.com/trendin,read,15:22,trendin.md,0,,false
+20,Hoverify,https://seoroast.com/hoverify,read,14:50,hoverify.md,2,,false
+21,Tolt,https://seoroast.com/tolt,read,34:12,tolt.md,0,,false
+22,AI Suit Up,https://seoroast.com/aisuitup,read,14:43,aisuitup.md,0,,false
+23,Friends & Fables,https://seoroast.com/fables,read,15:30,fables.md,0,,false
+24,Memo Cards,https://seoroast.com/memo-cards,read,17:09,memo-cards.md,0,,false
+25,Backpack,https://seoroast.com/backpack-laravel,read,14:28,backpack-laravel.md,0,,false
+26,Rallly,https://seoroast.com/rallly,preview_only,1:29,,0,,false
 27,Fast Pass Driving Tests,https://seoroast.com/fastpassdrivingtests,not_reviewed,,,,,unknown
 28,Client Portal,https://seoroast.com/client-portal-io,read,16:42,client-portal-io.md,0,,false
 29,Paytience,https://seoroast.com/paytience,not_reviewed,,,,,unknown

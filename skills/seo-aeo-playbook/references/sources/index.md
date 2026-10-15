@@ -1,8 +1,8 @@
 # Source index
 
-**Comprehensive review is incomplete: 18 of 50 cataloged transcripts reviewed; 32 remain incomplete (one preview-only, 31 unread). No full transcript files are saved.** The [coverage register](coverage.csv) lists all 50 sources and their URLs, verified against the signed-in [SEO Roast catalog](https://seoroast.com/transcripts) on October 14, 2026. The next reading starts at Blitz SEO Roast 1; see [the resume record](resume.md).
+**Comprehensive review is incomplete: 28 of 50 cataloged transcripts reviewed; 22 remain incomplete (one preview-only, 21 unread). No full transcript files are saved.** The [coverage register](coverage.csv) lists all 50 sources and their URLs, verified against the signed-in [SEO Roast catalog](https://seoroast.com/transcripts) on October 14, 2026. The next reading starts at Rallly; see [the resume record](resume.md).
 
-Reviewed October 14, 2026. These are original research notes, not full transcripts. The full-transcript coverage below refers to the preceding reading session; no complete third-party transcript is vendored. See [research and imports](../research-sources.md).
+Reviewed October 14–15, 2026. These are original research notes, not full transcripts. The full-transcript coverage below refers to the preceding reading session; no complete third-party transcript is vendored. See [research and imports](../research-sources.md).
 
 | Note | Recording date | Transcript read through | Visual coverage |
 | --- | --- | --- | --- |
@@ -24,5 +24,15 @@ Reviewed October 14, 2026. These are original research notes, not full transcrip
 | [GroupsWatcher](groupswatcher.md) | 2026-06-13 | 14:08 | Transcript and chapter text |
 | [Virlo](virlo.md) | 2026-04-11 | 30:17 | Transcript and chapter text |
 | [Hormozi](hormozi.md) | 2026-01-03 | 18:36 | Transcript and chapter text |
+| [Blitz SEO Roast 1](blitz-seo-1.md) | 2025-05-17 | 38:47 | Transcript; no selected visuals |
+| [Nomad List](nomadlist.md) | 2025-01-31 | 20:38 | Transcript; no selected visuals |
+| [Good Enough Logos](goodenoughlogos.md) | 2025-01-21 | 9:59 | Transcript; no selected visuals |
+| [Trendin](trendin.md) | 2024-12-19 | 15:22 | Transcript; no selected visuals |
+| [Hoverify](hoverify.md) | 2024-12-09 | 14:50 | Two selected images |
+| [Tolt](tolt.md) | 2024-11-20 | 34:12 | Transcript; no selected visuals |
+| [AI Suit Up](aisuitup.md) | 2024-10-22 | 14:43 | Transcript; no selected visuals |
+| [Friends & Fables](fables.md) | 2024-10-07 | 15:30 | Transcript; no selected visuals |
+| [Memo Cards](memo-cards.md) | 2024-10-07 | 17:09 | Transcript; no selected visuals |
+| [Backpack](backpack-laravel.md) | 2024-09-12 | 14:28 | Transcript; no selected visuals |
 
 Read [primary guidance](primary-guidance.md) before treating an audit recommendation as a platform requirement. The initial nine-audit sample did not fulfill the user's request to review everything. Preserve its useful findings while completing the remaining sources; do not label the comprehensive research complete yet.
