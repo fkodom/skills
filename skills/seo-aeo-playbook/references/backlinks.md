@@ -8,7 +8,9 @@ Qualify the exact source page: audience fit, topical context, maintenance, edito
 
 ## Select the right destination
 
-Inspect the destination distribution in a competitor export: homepage, product page, comparison, guide, app/login or customer subdomain. Many referring domains to one home page do not show that a particular guide has strong discovery. Compare relevant pages as well as domains. For each qualified prospect, choose the page that answers its readers' question; do not route every request to the homepage. See [Tolt](sources/tolt.md).
+Inspect the destination distribution in a competitor export: homepage, product page, comparison, guide, app/login or customer subdomain. Many referring domains to one home page do not show that a particular guide has strong discovery. Compare relevant pages as well as domains. For each qualified prospect, choose the page that answers its readers' question; do not route every request to the homepage.
+
+The [Tolt audit](sources/tolt.md), especially 12:00–15:00 and 16:00–27:00, makes this concrete: inspect where links land, then read recurring community and publisher pages for the question they serve. Record the **source page → reader question → useful contribution → destination page** for each prospect. This is a research method, not evidence that copying a competitor's links reproduces its rankings.
 
 Keep two discovery opportunities separate:
 
