@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO and AI Search Playbook"
+  short_description: "Evidence-based SEO, AI visibility, and backlinks"
+  default_prompt: "Use $seo-aeo-playbook to diagnose our search visibility and prioritize the next useful content and reputation improvements."
