@@ -27,6 +27,7 @@ When the user requests a complete corpus review, inventory the whole corpus and 
 | Measure Google and agent visibility | [Search sampling](references/search-measurement.md) | Raw evidence and comparable observations |
 | Find relevant independent references | [Backlinks and distribution](references/backlinks.md) | Existing-page inclusion opportunities, bounded follow-ups and verified placements |
 | Run an ongoing program | [Workflow and evaluation](references/workflow.md) | Dated review, update queue, outcome measures |
+| Understand the complete research | [Cross-source synthesis](references/synthesis.md) | Recurring decisions, source links and workflow implications |
 | Add transcripts or inspect audit claims | [Research sources](references/research-sources.md) | Provenance, coverage and timestamped notes |
 | Run bundled tools | [Scripts and formats](references/tooling.md) | Reproducible local JSON reports |
 
@@ -37,9 +38,9 @@ When the user requests a complete corpus review, inventory the whole corpus and 
 - **Hypothesis:** a proposed explanation or content opportunity, with the observation that would support or weaken it.
 - **Outcome:** a verified release, indexed URL, live reference or attributed conversion. A submission, draft or pitch is not an outcome.
 
-The [source index](references/sources/index.md) includes 47 SEO Roast audit notes and [primary platform guidance](references/sources/primary-guidance.md). Audit examples describe the recording date. Their claims about ranking causes are not controlled experiments. Consult current primary documentation when a recommendation depends on changing platform rules.
+The [source index](references/sources/index.md) includes 50 SEO Roast audit notes and [primary platform guidance](references/sources/primary-guidance.md). Audit examples describe the recording date. Their claims about ranking causes are not controlled experiments. Consult current primary documentation when a recommendation depends on changing platform rules.
 
-**Current research coverage: 47 of 50 cataloged transcripts reviewed; 3 remain incomplete (one preview-only, two unread).** The comprehensive review is incomplete. See the [coverage register](references/sources/coverage.csv); the source notes support provisional guidance, not a claim to have analyzed the entire library.
+**Catalog transcript review complete: 50 of 50 full available transcripts read, with cross-source synthesis completed October 15, 2026.** Visual coverage remains thirteen selected images and one paused video frame, not fifty full-video reviews. See the [coverage register](references/sources/coverage.csv) and [cross-source synthesis](references/synthesis.md) for the resulting decisions and evidence limits.
 
 ## Complete a useful work cycle
 

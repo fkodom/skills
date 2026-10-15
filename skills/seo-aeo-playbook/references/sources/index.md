@@ -1,6 +1,6 @@
 # Source index
 
-**Comprehensive review is incomplete: 47 of 50 cataloged transcripts reviewed; 3 remain incomplete (one preview-only, two unread). No full transcript files are saved.** The [coverage register](coverage.csv) lists all 50 sources and their URLs, verified against the signed-in [SEO Roast catalog](https://seoroast.com/transcripts) on October 14, 2026. The next reading starts at Klu; see [the resume record](resume.md).
+**Catalog transcript review complete: 50 of 50 full available transcripts reviewed; none remain unread. Cross-source synthesis completed October 15, 2026.** No full transcript files are saved. The [coverage register](coverage.csv) lists all 50 sources and their URLs, verified against the signed-in [SEO Roast catalog](https://seoroast.com/transcripts) on October 14, 2026. Read the [synthesis](../synthesis.md) for the resulting decisions and the [completion record](resume.md) for acquisition history.
 
 Reviewed October 14–15, 2026. These are original research notes, not full transcripts. The full-transcript coverage below refers to the preceding reading session; no complete third-party transcript is vendored. See [research and imports](../research-sources.md).
 
@@ -53,5 +53,8 @@ Reviewed October 14–15, 2026. These are original research notes, not full tran
 | [Italian Gourmet Shop](italiangourmetshop.md) | 2024-06-18 | 20:56 | Transcript; no selected visuals |
 | [IconBuddy](iconbuddy.md) | 2024-06-17 | 17:12 | Transcript; no selected visuals |
 | [BetterPic](betterpic.md) | 2024-06-14 | 13:45 | Transcript; no selected visuals |
+| [Klu](klu.md) | 2024-06-12 | 8:44 | Transcript; no selected visuals |
+| [Guinea Pig](guineapig.md) | 2024-06-10 | 15:35 | Transcript; no selected visuals |
+| [Inbox Zero](inbox-zero.md) | 2024-06-06 | 17:45 | Transcript; no selected visuals |
 
-Read [primary guidance](primary-guidance.md) before treating an audit recommendation as a platform requirement. The initial nine-audit sample did not fulfill the user's request to review everything. Preserve its useful findings while completing the remaining sources; do not label the comprehensive research complete yet.
+Read [primary guidance](primary-guidance.md) before treating an audit recommendation as a platform requirement. Transcript, screenshot and video coverage remain separate; completion of the catalog readings is not a claim that every video was watched.

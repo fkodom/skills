@@ -46,6 +46,6 @@ catalog_position,name,source_url,transcript_review,read_through,note_file,select
 45,Italian Gourmet Shop,https://seoroast.com/italiangourmetshop,read,20:56,italiangourmetshop.md,0,,false
 46,IconBuddy,https://seoroast.com/iconbuddy,read,17:12,iconbuddy.md,0,,false
 47,BetterPic,https://seoroast.com/betterpic,read,13:45,betterpic.md,0,,false
-48,Klu,https://seoroast.com/klu,preview_only,1:25,,,,unknown
-49,Guinea Pig,https://seoroast.com/guineapig,not_reviewed,,,,,unknown
-50,Inbox Zero,https://seoroast.com/inbox-zero,not_reviewed,,,,,unknown
+48,Klu,https://seoroast.com/klu,read,8:44,klu.md,0,,false
+49,Guinea Pig,https://seoroast.com/guineapig,read,15:35,guineapig.md,0,,false
+50,Inbox Zero,https://seoroast.com/inbox-zero,read,17:45,inbox-zero.md,0,,false

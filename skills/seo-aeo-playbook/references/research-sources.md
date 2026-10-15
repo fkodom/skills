@@ -2,13 +2,13 @@
 
 ## What this skill contains
 
-The [source index](sources/index.md) contains original timestamped notes from 47 SEO Roast audits reviewed on October 14–15, 2026. The preceding research read their complete available transcripts, inspected 13 selected audit images and one paused PostEverywhere frame near 8:00. It did not watch every video end to end. Full transcript files were not archived or included in this repository.
+The [source index](sources/index.md) contains original timestamped notes from 50 SEO Roast audits reviewed on October 14–15, 2026. The preceding research read their complete available transcripts, inspected 13 selected audit images and one paused PostEverywhere frame near 8:00. It did not watch every video end to end. Full transcript files were not archived or included in this repository.
 
-That was incomplete coverage of the user's request. The catalog inspected on October 14 listed 50 audits. Track all 50 in [coverage.csv](sources/coverage.csv), leaving the three incomplete entries explicit (one preview-only and two unread). A successful import is not a completed reading, and a transcript reading is not a full-video review. Reconcile those coverage dimensions separately before claiming completion.
+The October 14 catalog contained 50 audits, and all 50 full available transcripts have now been read. The [coverage register](sources/coverage.csv) records each reading. The [cross-source synthesis](synthesis.md) integrates the useful findings. A successful import is not a completed reading, and a transcript reading is not a full-video review. Reconcile those coverage dimensions separately before claiming completion.
 
 Keep three source layers separate: the speaker's words, the visual material actually inspected, and our interpretation. A chapter summary may be machine-generated and may overstate the spoken claim. Prefer the exact timestamped evidence when they disagree. Old audit metrics remain historical; never report them as current competitor facts.
 
-The October 15 morning sync completed ten transcripts, the 10 a.m. Eastern continuation completed eight more, and the 3:15 p.m. recovery pass completed eleven more. The latest hourly limit returned at Klu; do not retry before the time recorded in the resume file. See [the resume record](sources/resume.md) for the exact stopping point and unfinished synthesis.
+The October 15 morning sync completed ten transcripts, the 10 a.m. Eastern continuation eight, the 3:15 p.m. recovery eleven, and the next recovery pass the final three after the saved reading-limit window. See [the completion record](sources/resume.md) for progress and access history.
 
 ## Add complete local transcripts
 

@@ -45,6 +45,8 @@ Image metadata can supply creator, credit and licensing details and eligibility 
 
 Keep lab diagnostics separate from real-user field measurements. Record device, URL versus origin scope, test date and the field-data window. Compare deploy dates to that window before concluding an old issue remains unfixed. A faster lab run does not demonstrate that a rolling population metric has recovered. [PageSpeed data](https://developers.google.com/speed/docs/insights/v5/about).
 
+Google recommends descriptive, concise titles and intelligible URLs; neither a fixed character count nor an exact-match slug is a ranking requirement. Keep useful live URLs unless a move has a concrete benefit and a migration plan. [Title guidance](https://developers.google.com/search/docs/appearance/title-link) and [URL guidance](https://developers.google.com/search/docs/crawling-indexing/url-structure).
+
 ## Close a finding
 
 Each technical issue needs the exact affected URL, observed evidence, intended behavior, change and post-change verification. A green automated report means only that its bounded checks passed. Indexing, rendering, analytics and conversion remain separate questions.

@@ -1,40 +1,33 @@
-# Research resume record
+# Research completion record
 
-Last pass: October 15, 2026, 3:15 p.m. America/New_York recovery slot (started 3:17 p.m.). **47/50 full available transcripts reviewed; three remain incomplete** (one preview-only, two unread). The coverage CSV is the source of truth. Source notes preserve original findings with timestamp anchors; complete transcript files have not been archived.
+Completed October 15, 2026: **all 50 full available transcripts reviewed and final cross-source synthesis written.** No unread or preview-only sources remain. The [coverage register](coverage.csv) records exact source URLs and reading endpoints; the [synthesis](../synthesis.md) connects the catalog's useful findings to the playbook.
 
-## Where to resume
+## Final recovery pass
 
-Start with [Klu](https://seoroast.com/klu), catalog entry 48. At **19:25:11 UTC (3:25 p.m. Eastern)** its panel reported: “You have reached the hourly limit for full transcripts. Try again in 57 minutes.” Only 18 preview segments through 1:25 were available, versus the page's stated 118. This is not a completed reading. Acquisition stopped immediately.
+The nominal 4:15 p.m. Eastern heartbeat arrived at 20:20:19 UTC. Execution checked the clock at 20:34:52 UTC, after the saved earliest retry of 20:22:12 UTC. Klu's full transcript was then available. No request was made inside the recorded blocked period.
 
-**Earliest retry: October 15 at 20:22:12 UTC / 4:22:12 p.m. Eastern.** Do not refresh the transcript, navigate to another unread source or otherwise retry within that window. If a scheduled pass arrives earlier, preserve this blocker and check only the saved queue and actual next-run timestamp.
+- Klu: 118 available segments through 8:44, read at 20:35:22 UTC.
+- Guinea Pig: 260 segments through 15:35, read at 20:36:06 UTC.
+- Inbox Zero: 401 segments through 17:45, read at 20:36:37 UTC. Its initial loading preview was not counted as complete.
 
-The original noon and 2 p.m. slots did not run: the automation was ACTIVE but had no next-run timestamp. The recovered `finish-seo-roast-research-today` schedule is for nominal 3:15, 4:15 and 5:15 p.m. Eastern on October 15 only. The 3:15 pass ran successfully. Its next actual run was verified in scheduler storage as **4:11:28 p.m. Eastern**, for the nominal 4:15 slot. That is earlier than the reading-limit reset, so it must not acquire another transcript. The 5:15 final slot remains configured; verify its actual timestamp after the earlier check instead of promising it from an ACTIVE label.
+The hourly limit is resolved for this completed queue. No further acquisition or automatic extension is needed. The `finish-seo-roast-research-today` automation was deleted after the synthesis was completed; its remaining 5:15 p.m. slot is cancelled. Delivery verification is recorded privately with this pass.
 
-Delete the automation when all 50 readings and final synthesis are complete, or after the final 5:15 p.m. pass even if incomplete. Do not extend into another day without the user asking.
-
-Remaining queue:
-
-1. [Klu](https://seoroast.com/klu) — preview_only
-2. [Guinea Pig](https://seoroast.com/guineapig) — not_reviewed
-3. [Inbox Zero](https://seoroast.com/inbox-zero) — not_reviewed
-
-Continue in catalog order. Skip all completed sources, including Client Portal, ProductLift and Resend. Never substitute chapter summaries for full readings.
-
-## Progress preserved
+## Preserved acquisition history
 
 - Initial research: eighteen complete readings.
-- October 15 morning sync: ten more, ending at Backpack. The earlier Rallly limit is resolved.
-- 10 a.m. continuation: eight more, Rallly through Liftosaur. The earlier PopaDex limit is resolved.
-- 3:15 p.m. recovery: eleven more, PopaDex, Typefully, Sync2Sheets, CrownTV, StealthGPT, Botster, BetterWorld, Niche Tools, Italian Gourmet Shop, IconBuddy and BetterPic.
+- October 15 morning sync: ten more, ending at Backpack.
+- 10 a.m. continuation: eight more, Rallly through Liftosaur.
+- 3:15 p.m. recovery: eleven more, PopaDex through BetterPic.
+- Final recovery: Klu, Guinea Pig and Inbox Zero.
 
-All available segments were read for the completed entries. No additional screenshots or video frames were inspected in the recovery pass. Overall visual coverage remains thirteen selected images and one paused PostEverywhere frame; transcript, image and video coverage remain separate.
+The original noon and 2 p.m. follow-ups did not run: the schedule was ACTIVE but had no queued next-run timestamp. Replacement recovery slots were established for 3:15, 4:15 and 5:15 p.m. Eastern. The later slots are unnecessary once this completed pass is closed.
 
-Original notes and links are in the repository. Compact acquisition metadata and the exact Klu blocker are private in `/Users/fkodom/Documents/lighthouse/seo-content-evidence/2026-10-15/seo-roast-research/continuation-1515.jsonl`. Scheduler evidence is alongside it in `scheduler-after-1515.json`. No raw transcripts, cookies or private account data are staged. The separate research Page is reconciled to 47 readings in this pass.
+At 19:25:11 UTC, Klu reported an hourly limit with a 57-minute wait. Its preview contained eighteen segments through 1:25; the saved earliest retry was 20:22:12 UTC. The next nominal 4:15 check had an actual queued timestamp of 4:11:28 p.m. Eastern. Execution ultimately occurred after the reset, as recorded above.
 
-## Synthesis in this pass
+## Scope and saved material
 
-The playbook adds a competitor-discovery worksheet separating page types and first-party outcomes from provider estimates. Intent research now explicitly tests mismatched terminology, brand/category ambiguity and reachable market. Link review distinguishes a factual citation, an operational relationship and asset credit before treating a source as an inclusion opportunity. Existing outreach priorities and follow-up rules from the intervening commits are preserved.
+Visual coverage remains thirteen selected audit images and one paused PostEverywhere frame near 8:00. No new images or video frames were inspected in the final pass. The videos were not all watched end to end, and complete transcript files were not archived.
 
-Current primary sources were checked for AI-assisted content quality, image metadata eligibility, recrawl limitations and Ahrefs URL Rating. Keep those facts separate from the presenter's paid-link suggestions, traffic multipliers and causal ranking claims.
+The repository contains original timestamped notes, sources, focused topic guides, scripts and reusable worksheets. Private acquisition metadata, primary checks, scheduler evidence and delivery records remain under `/Users/fkodom/Documents/lighthouse/seo-content-evidence/2026-10-15/seo-roast-research/`. The final acquisition record is `continuation-1615.jsonl`. No raw transcripts, screenshots, credentials or private account data belong in the commit.
 
-Finish the cross-source synthesis after the three remaining readings. Do not force every audit into a new checklist item or claim that backlinks alone explain Lighthouse's visibility.
+The final synthesis covers reader intent, usable outputs, product proof, backlink purpose, discovery channels, useful page families, technical verification and neutral agent measurement. Existing outreach priorities and follow-up cadence from intervening commits remain intact. This research does not launch a new audit, outreach campaign or publishing schedule.

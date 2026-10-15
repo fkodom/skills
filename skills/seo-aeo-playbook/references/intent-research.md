@@ -42,6 +42,8 @@ A plausible phrase can lead to the wrong audience. Record the original customer 
 
 When expanding internationally, compare the market you can actually serve. Keep global volume separate from the target country's results and demand. [Italian Gourmet Shop](sources/italiangourmetshop.md). Do not infer reachable customers from worldwide searches.
 
+Also distinguish neighboring actions: removing unwanted emails and cancelling a paid subscription can share words while needing different instructions. [Inbox Zero](sources/inbox-zero.md).
+
 ## Decide build versus update
 
 Match the job to the inventory before creating a brief. Update the strongest existing page if the intent overlaps. Create a new page for a distinct need that merits its own answer. Consolidation requires checking actual traffic, links, canonicals and redirects; do not delete an older page solely because its title resembles another.

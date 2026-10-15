@@ -1,12 +1,13 @@
 # Primary guidance registry
 
-Base references checked October 14, 2026; migration and crawler checks added October 15, 2026. Link extraction, paid-link qualification and link-spam guidance were rechecked during the October 15 10 a.m. continuation. The 3:15 p.m. recovery pass checked image metadata, generative AI content, recrawl limitations and Ahrefs URL Rating. Recheck the responsible source before a material platform-dependent change. The playbook's implementation examples are our synthesis; the following links support specific platform facts.
+Base references checked October 14, 2026; migration and crawler checks added October 15, 2026. Link extraction, paid-link qualification and link-spam guidance were rechecked during the October 15 10 a.m. continuation. The 3:15 p.m. recovery pass checked image metadata, generative AI content, recrawl limitations and Ahrefs URL Rating. The final continuation rechecked title links, URL structure, link-spam policy and Google AI-feature eligibility. Recheck the responsible source before a material platform-dependent change. The playbook's implementation examples are our synthesis; the following links support specific platform facts.
 
 | Source | Use it to verify |
 | --- | --- |
 | [Google AI features](https://developers.google.com/search/docs/appearance/ai-features) | Eligibility, ordinary SEO practices, reporting scope |
 | [People-first content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) | Useful original contribution; no preferred word count |
 | [Title links](https://developers.google.com/search/docs/appearance/title-link) | Descriptive titles and display behavior |
+| [URL structure](https://developers.google.com/search/docs/crawling-indexing/url-structure) | Descriptive, intelligible URLs; checked October 15 |
 | [Canonical consolidation](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls) | Redirect, canonical and sitemap signals |
 | [Site moves](https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes) | Old/new URL mapping, redirects and migration monitoring; checked October 15 |
 | [Google request verification](https://developers.google.com/crawling/docs/crawlers-fetchers/verify-google-requests) | Verify requests independently of user-agent text; checked October 15 |

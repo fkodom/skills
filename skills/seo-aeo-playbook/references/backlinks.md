@@ -57,6 +57,8 @@ A useful pitch explains why this audience benefits and offers one concrete asset
 
 For competitor-backlink outreach, prefer a useful addition to an existing relevant article, comparison or resource list. Name the exact URL and section, ask directly to be considered for inclusion, and supply a short factual addition plus one supporting demo or resource. Ask what the editor needs to evaluate it and whether the process involves fees or partner terms. A ready-to-use addition reduces the work required of the publisher; a vague offer to contribute a future article does not make the same request.
 
+A practical problem-solving guide can be a prospect even when it is not a vendor list. Look for a natural tool recommendation within the task. [Guinea Pig](sources/guineapig.md).
+
 Confirm that the page is suitable for multiple providers or for the proposed example. A dedicated review of a competitor is research context, not automatically an insertion opportunity. Distinguish measured page visibility from a page merely found in a backlink export. Propose a new article, podcast or webinar when there is a specific reader benefit, an invitation or explicit user preference; explain why the extra work is justified instead of making it the default.
 
 Describe the specific missing step, example or evidence the destination supplies. “Our article is longer” is not a reader benefit. Inspect links to the competing guide itself, not just domain totals, as illustrated by [SparkSocial](sources/sparksocial.md) and [Liftosaur](sources/liftosaur.md). [Popp World](sources/poppworld.md) also shows why a supplier relationship may not be reproducible through an editorial pitch.
