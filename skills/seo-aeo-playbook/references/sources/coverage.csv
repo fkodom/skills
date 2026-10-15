@@ -35,17 +35,17 @@ catalog_position,name,source_url,transcript_review,read_through,note_file,select
 34,Sheet2API,https://seoroast.com/sheet2api,read,14:54,sheet2api.md,0,,false
 35,Coindive,https://seoroast.com/coindive,read,14:41,coindive.md,0,,false
 36,Liftosaur,https://seoroast.com/liftosaur,read,16:21,liftosaur.md,0,,false
-37,PopaDex,https://seoroast.com/popadex,preview_only,1:29,,0,,false
-38,Typefully,https://seoroast.com/typefully,not_reviewed,,,,,unknown
-39,Sync2Sheets,https://seoroast.com/sync2sheets,not_reviewed,,,,,unknown
-40,CrownTV,https://seoroast.com/crowntv,not_reviewed,,,,,unknown
-41,StealthGPT,https://seoroast.com/stealthgpt,not_reviewed,,,,,unknown
-42,Botster,https://seoroast.com/botster,not_reviewed,,,,,unknown
-43,BetterWorld,https://seoroast.com/betterworld,not_reviewed,,,,,unknown
-44,Niche Tools,https://seoroast.com/nichetools,not_reviewed,,,,,unknown
-45,Italian Gourmet Shop,https://seoroast.com/italiangourmetshop,not_reviewed,,,,,unknown
-46,IconBuddy,https://seoroast.com/iconbuddy,not_reviewed,,,,,unknown
-47,BetterPic,https://seoroast.com/betterpic,not_reviewed,,,,,unknown
-48,Klu,https://seoroast.com/klu,not_reviewed,,,,,unknown
+37,PopaDex,https://seoroast.com/popadex,read,19:30,popadex.md,0,,false
+38,Typefully,https://seoroast.com/typefully,read,17:55,typefully.md,0,,false
+39,Sync2Sheets,https://seoroast.com/sync2sheets,read,17:44,sync2sheets.md,0,,false
+40,CrownTV,https://seoroast.com/crowntv,read,14:17,crowntv.md,0,,false
+41,StealthGPT,https://seoroast.com/stealthgpt,read,14:14,stealthgpt.md,0,,false
+42,Botster,https://seoroast.com/botster,read,14:15,botster.md,0,,false
+43,BetterWorld,https://seoroast.com/betterworld,read,14:58,betterworld.md,0,,false
+44,Niche Tools,https://seoroast.com/nichetools,read,16:27,nichetools.md,0,,false
+45,Italian Gourmet Shop,https://seoroast.com/italiangourmetshop,read,20:56,italiangourmetshop.md,0,,false
+46,IconBuddy,https://seoroast.com/iconbuddy,read,17:12,iconbuddy.md,0,,false
+47,BetterPic,https://seoroast.com/betterpic,read,13:45,betterpic.md,0,,false
+48,Klu,https://seoroast.com/klu,preview_only,1:25,,,,unknown
 49,Guinea Pig,https://seoroast.com/guineapig,not_reviewed,,,,,unknown
 50,Inbox Zero,https://seoroast.com/inbox-zero,not_reviewed,,,,,unknown

@@ -36,6 +36,12 @@ Match distribution to that task too: a video demonstration, specialist discussio
 
 Competitor paid keywords are another source of hypotheses. They show observed bidding, not profitable conversion or suitable intent. Confirm the audience and actual page before adding a term. For example, joining an affiliate program and purchasing affiliate-management software are different jobs. See [Tolt](sources/tolt.md).
 
+## Validate demand before scaling
+
+A plausible phrase can lead to the wrong audience. Record the original customer wording, observed result types, category versus brand intent, country/language and any demand estimate with its source. AI suggestions are candidates, not measurements. Missing volume is unknown; repeated mismatched results are a reason to reconsider the term or distribution channel. [Niche Tools](sources/nichetools.md) and [StealthGPT](sources/stealthgpt.md).
+
+When expanding internationally, compare the market you can actually serve. Keep global volume separate from the target country's results and demand. [Italian Gourmet Shop](sources/italiangourmetshop.md). Do not infer reachable customers from worldwide searches.
+
 ## Decide build versus update
 
 Match the job to the inventory before creating a brief. Update the strongest existing page if the intent overlaps. Create a new page for a distinct need that merits its own answer. Consolidation requires checking actual traffic, links, canonicals and redirects; do not delete an older page solely because its title resembles another.

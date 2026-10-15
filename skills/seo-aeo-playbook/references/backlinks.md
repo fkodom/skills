@@ -39,6 +39,12 @@ Inspect the source and destination before turning an export row into outreach:
 
 Do not make private product records public to generate links. Do not insert hidden or keyword-rich widget links or require unqualified ranking links in exchange for a service. [Google's link-spam examples](https://developers.google.com/search/docs/essentials/spam-policies#link-spam).
 
+## Check citation and relationship
+
+A benefits guide cited for a specific fact, a donation provider used by a publisher, and an icon credit in a template are different opportunities. Record the reason for the link and the real relationship before proposing inclusion. [CrownTV](sources/crowntv.md), [BetterWorld](sources/betterworld.md) and [IconBuddy](sources/iconbuddy.md). Do not infer editorial availability from a customer or supplier link.
+
+A statistics page or case study needs traceable evidence and useful context to deserve citation; a collection of unsupported numbers is not a link asset. [BetterPic](sources/betterpic.md). For third-party scores, Ahrefs UR describes a page's link profile and incorporates internal and external links; it is neither an internal-link count nor Google's score. [Ahrefs definition](https://help.ahrefs.com/en/articles/72658-what-is-url-rating-ur).
+
 ## Qualify the next action
 
 Start from `assets/backlink-candidates.csv`. Track source URL, target URL, topic/reader question, contribution, source category, contact route, owner, approval status, lifecycle status, last action and next action. Keep private messages and personal contact exports outside public repositories.

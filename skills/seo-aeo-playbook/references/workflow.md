@@ -34,6 +34,12 @@ Scheduling requires a user request. Use the available scheduler and preserve exi
 
 For an authorized ongoing backlink program, separate the cadences: daily reply and due-action review, weekly source-page qualification and tailored draft preparation, and monthly placement maintenance and outcome review. Record the project's timezone and account for daylight saving time. Update an existing matching monitor before creating another. A long-lived program needs refreshed opportunities and useful publisher relationships, while each unanswered pitch still needs a stop point. See [backlinks and distribution](backlinks.md) for inclusion requests, follow-up boundaries and tracking fields.
 
+## Compare the source of discovery
+
+Use [the discovery worksheet](../assets/competitor-discovery-review.csv) when a competitor's total traffic appears much larger. Split the evidence into product pages, guides, utilities, public outputs and third-party listings, using the same market, period and provider. Similar blog performance may conceal a gap in a different format. [Typefully](sources/typefully.md).
+
+Record what the visitor can do on each destination and how it leads to a relevant next step. Official integrations and useful workflow templates can introduce the product without the company's own page winning every query. [Sync2Sheets](sources/sync2sheets.md). Choose among an existing-page update, useful tool, legitimate listing or no action; do not assume the answer is another article. Keep missing data null and estimates separate from first-party outcomes.
+
 ## Keep an improvement queue
 
 Review up to three existing pages in a weekly strategy pass. Use [the improvement worksheet](../assets/page-improvement.csv) to record the observed query, reader job, missing answer, useful asset, owner and review window. Start with a page that already reaches the right audience but leaves a specific question unanswered; do not equate adding length with improving it. [Backpack](sources/backpack-laravel.md). This complements new content rather than creating a second treatment of the same question.

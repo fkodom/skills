@@ -37,9 +37,9 @@ When the user requests a complete corpus review, inventory the whole corpus and 
 - **Hypothesis:** a proposed explanation or content opportunity, with the observation that would support or weaken it.
 - **Outcome:** a verified release, indexed URL, live reference or attributed conversion. A submission, draft or pitch is not an outcome.
 
-The [source index](references/sources/index.md) includes 36 SEO Roast audit notes and [primary platform guidance](references/sources/primary-guidance.md). Audit examples describe the recording date. Their claims about ranking causes are not controlled experiments. Consult current primary documentation when a recommendation depends on changing platform rules.
+The [source index](references/sources/index.md) includes 47 SEO Roast audit notes and [primary platform guidance](references/sources/primary-guidance.md). Audit examples describe the recording date. Their claims about ranking causes are not controlled experiments. Consult current primary documentation when a recommendation depends on changing platform rules.
 
-**Current research coverage: 36 of 50 cataloged transcripts reviewed; 14 remain incomplete (one preview-only, 13 unread).** The comprehensive review is incomplete. See the [coverage register](references/sources/coverage.csv); the source notes support provisional guidance, not a claim to have analyzed the entire library.
+**Current research coverage: 47 of 50 cataloged transcripts reviewed; 3 remain incomplete (one preview-only, two unread).** The comprehensive review is incomplete. See the [coverage register](references/sources/coverage.csv); the source notes support provisional guidance, not a claim to have analyzed the entire library.
 
 ## Complete a useful work cycle
 

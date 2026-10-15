@@ -1,44 +1,40 @@
 # Research resume record
 
-Last pass: October 15, 2026, 10 a.m. America/New_York. **36/50 full available transcripts reviewed; 14 remain incomplete** (one preview-only, 13 unread). The coverage CSV is the source of truth. Source notes preserve original findings with timestamp anchors; complete transcript files have not been archived.
+Last pass: October 15, 2026, 3:15 p.m. America/New_York recovery slot (started 3:17 p.m.). **47/50 full available transcripts reviewed; three remain incomplete** (one preview-only, two unread). The coverage CSV is the source of truth. Source notes preserve original findings with timestamp anchors; complete transcript files have not been archived.
 
 ## Where to resume
 
-Start with [PopaDex](https://seoroast.com/popadex), catalog entry 37. At **14:07:30 UTC (10:07 a.m. Eastern)** its panel reported: “You have reached the hourly limit for full transcripts. Try again in 36 minutes.” Only 34 preview segments through 1:29 were available, versus the page's stated 453. This is not a completed reading. Acquisition stopped immediately.
+Start with [Klu](https://seoroast.com/klu), catalog entry 48. At **19:25:11 UTC (3:25 p.m. Eastern)** its panel reported: “You have reached the hourly limit for full transcripts. Try again in 57 minutes.” Only 18 preview segments through 1:25 were available, versus the page's stated 118. This is not a completed reading. Acquisition stopped immediately.
 
-The active `finish-seo-roast-research-today` automation has continuation slots at noon and 2 p.m. Eastern on October 15 only. Resume at the next scheduled slot; do not retry inside the blocked period. Delete the automation when all 50 readings and synthesis are complete, or after the 2 p.m. pass even if incomplete. Do not extend it into another day without the user asking.
+**Earliest retry: October 15 at 20:22:12 UTC / 4:22:12 p.m. Eastern.** Do not refresh the transcript, navigate to another unread source or otherwise retry within that window. If a scheduled pass arrives earlier, preserve this blocker and check only the saved queue and actual next-run timestamp.
 
-Continue `preview_only` and `not_reviewed` rows in catalog order. Skip already completed sources, including Client Portal, ProductLift and Resend. Never substitute chapter summaries for full readings.
+The original noon and 2 p.m. slots did not run: the automation was ACTIVE but had no next-run timestamp. The recovered `finish-seo-roast-research-today` schedule is for nominal 3:15, 4:15 and 5:15 p.m. Eastern on October 15 only. The 3:15 pass ran successfully. Its next actual run was verified in scheduler storage as **4:11:28 p.m. Eastern**, for the nominal 4:15 slot. That is earlier than the reading-limit reset, so it must not acquire another transcript. The 5:15 final slot remains configured; verify its actual timestamp after the earlier check instead of promising it from an ACTIVE label.
+
+Delete the automation when all 50 readings and final synthesis are complete, or after the final 5:15 p.m. pass even if incomplete. Do not extend into another day without the user asking.
 
 Remaining queue:
 
-1. [PopaDex](https://seoroast.com/popadex) — preview_only
-2. [Typefully](https://seoroast.com/typefully) — not_reviewed
-3. [Sync2Sheets](https://seoroast.com/sync2sheets) — not_reviewed
-4. [CrownTV](https://seoroast.com/crowntv) — not_reviewed
-5. [StealthGPT](https://seoroast.com/stealthgpt) — not_reviewed
-6. [Botster](https://seoroast.com/botster) — not_reviewed
-7. [BetterWorld](https://seoroast.com/betterworld) — not_reviewed
-8. [Niche Tools](https://seoroast.com/nichetools) — not_reviewed
-9. [Italian Gourmet Shop](https://seoroast.com/italiangourmetshop) — not_reviewed
-10. [IconBuddy](https://seoroast.com/iconbuddy) — not_reviewed
-11. [BetterPic](https://seoroast.com/betterpic) — not_reviewed
-12. [Klu](https://seoroast.com/klu) — not_reviewed
-13. [Guinea Pig](https://seoroast.com/guineapig) — not_reviewed
-14. [Inbox Zero](https://seoroast.com/inbox-zero) — not_reviewed
+1. [Klu](https://seoroast.com/klu) — preview_only
+2. [Guinea Pig](https://seoroast.com/guineapig) — not_reviewed
+3. [Inbox Zero](https://seoroast.com/inbox-zero) — not_reviewed
 
-## What was saved
+Continue in catalog order. Skip all completed sources, including Client Portal, ProductLift and Resend. Never substitute chapter summaries for full readings.
 
-The earlier morning pass completed ten readings: Blitz SEO Roast 1, Nomad List, Good Enough Logos, Trendin, Hoverify, Tolt, AI Suit Up, Friends & Fables, Memo Cards and Backpack. Its Rallly limit is now resolved. The former `finish-seo-roast-research` job was deleted after that pass; the separate same-day continuation schedule above remains active.
+## Progress preserved
 
-This 10 a.m. pass completed eight more: Rallly, Fast Pass Driving Tests, Paytience, SparkSocial, Popp World, Sheet2API, Coindive and Liftosaur. All available segments were read. No additional screenshots or video frames were inspected in this pass. Overall visual coverage remains thirteen selected images and one paused PostEverywhere frame; transcript, image and video coverage remain separate.
+- Initial research: eighteen complete readings.
+- October 15 morning sync: ten more, ending at Backpack. The earlier Rallly limit is resolved.
+- 10 a.m. continuation: eight more, Rallly through Liftosaur. The earlier PopaDex limit is resolved.
+- 3:15 p.m. recovery: eleven more, PopaDex, Typefully, Sync2Sheets, CrownTV, StealthGPT, Botster, BetterWorld, Niche Tools, Italian Gourmet Shop, IconBuddy and BetterPic.
 
-Original notes and links are in the repository. Compact acquisition metadata and the exact PopaDex blocker are private in `/Users/fkodom/Documents/lighthouse/seo-content-evidence/2026-10-15/seo-roast-research/continuation-10am.jsonl`. No raw transcripts, cookies or private account data are staged. The separate research Page is reconciled to 36 readings in this pass.
+All available segments were read for the completed entries. No additional screenshots or video frames were inspected in the recovery pass. Overall visual coverage remains thirteen selected images and one paused PostEverywhere frame; transcript, image and video coverage remain separate.
+
+Original notes and links are in the repository. Compact acquisition metadata and the exact Klu blocker are private in `/Users/fkodom/Documents/lighthouse/seo-content-evidence/2026-10-15/seo-roast-research/continuation-1515.jsonl`. Scheduler evidence is alongside it in `scheduler-after-1515.json`. No raw transcripts, cookies or private account data are staged. The separate research Page is reconciled to 47 readings in this pass.
 
 ## Synthesis in this pass
 
-The backlink guide now separates editorial, vendor, commercial, public-product and technical-reference mechanisms. A competitor-link worksheet records export scope and completeness before prospects enter the existing approval register. The content guide adds source/update requirements for location and metric fields; intent guidance includes audience-appropriate distribution formats.
+The playbook adds a competitor-discovery worksheet separating page types and first-party outcomes from provider estimates. Intent research now explicitly tests mismatched terminology, brand/category ambiguity and reachable market. Link review distinguishes a factual citation, an operational relationship and asset credit before treating a source as an inclusion opportunity. Existing outreach priorities and follow-up rules from the intervening commits are preserved.
 
-Current Google documentation was checked for crawlable anchors, sponsored/UGC link qualification and link-spam examples. A technical URL does not establish an editorial endorsement or a customer relationship. Keep those checks separate from the presenter's growth predictions, paid ranking links and generic keyword repetition advice.
+Current primary sources were checked for AI-assisted content quality, image metadata eligibility, recrawl limitations and Ahrefs URL Rating. Keep those facts separate from the presenter's paid-link suggestions, traffic multipliers and causal ranking claims.
 
-Finish the cross-source synthesis after the remaining readings. Do not force every audit into a new checklist item or claim that backlinks alone explain Lighthouse's current visibility.
+Finish the cross-source synthesis after the three remaining readings. Do not force every audit into a new checklist item or claim that backlinks alone explain Lighthouse's visibility.

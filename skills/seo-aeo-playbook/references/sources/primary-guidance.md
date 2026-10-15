@@ -1,6 +1,6 @@
 # Primary guidance registry
 
-Base references checked October 14, 2026; migration and crawler checks added October 15, 2026. Link extraction, paid-link qualification and link-spam guidance were rechecked during the October 15 10 a.m. continuation. Recheck the responsible source before a material platform-dependent change. The playbook's implementation examples are our synthesis; the following links support specific platform facts.
+Base references checked October 14, 2026; migration and crawler checks added October 15, 2026. Link extraction, paid-link qualification and link-spam guidance were rechecked during the October 15 10 a.m. continuation. The 3:15 p.m. recovery pass checked image metadata, generative AI content, recrawl limitations and Ahrefs URL Rating. Recheck the responsible source before a material platform-dependent change. The playbook's implementation examples are our synthesis; the following links support specific platform facts.
 
 | Source | Use it to verify |
 | --- | --- |
@@ -23,6 +23,9 @@ Base references checked October 14, 2026; migration and crawler checks added Oct
 | [Interstitial guidance](https://developers.google.com/search/docs/appearance/avoid-intrusive-interstitials) | Avoiding obstructive reader experiences |
 | [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) | Field versus lab data |
 | [Ahrefs domain rating](https://ahrefs.com/seo/glossary/domain-rating) | Proprietary metric definition and scope |
+| [Ahrefs URL Rating](https://help.ahrefs.com/en/articles/72658-what-is-url-rating-ur) | Page-level link-profile metric, including internal and external links; checked October 15 |
+| [Generative AI content](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content) | Accuracy, quality and added value; AI use alone is not the diagnosis; checked October 15 |
+| [Image metadata](https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata) | Creator, credit and license information; feature eligibility; checked October 15 |
 | [SEO Roast transcript terms](https://seoroast.com/terms-of-service#transcripts) | Access, collection and redistribution limits |
 
 Do not convert an auditor's theory into a Google requirement by placing an unrelated documentation link beside it. Link each claim to the source that actually supports it.

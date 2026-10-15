@@ -41,6 +41,8 @@ For “crawled, currently not indexed,” examine duplication, usefulness, prefe
 
 Check mobile layout, main text availability, meaningful headings, real anchor links, images with relevant alternatives and media that actually supports the explanation. JSON-LD must match visible facts; its presence alone does not earn a result feature. Video embedding does not establish video indexing. [Video guidance](https://developers.google.com/search/docs/appearance/video).
 
+Image metadata can supply creator, credit and licensing details and eligibility for specific image features. It does not establish a ranking increase. Keep image-search observations separate from web results and match metadata to the actual asset. [Google image metadata](https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata).
+
 Keep lab diagnostics separate from real-user field measurements. Record device, URL versus origin scope, test date and the field-data window. Compare deploy dates to that window before concluding an old issue remains unfixed. A faster lab run does not demonstrate that a rolling population metric has recovered. [PageSpeed data](https://developers.google.com/speed/docs/insights/v5/about).
 
 ## Close a finding

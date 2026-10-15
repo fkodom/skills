@@ -1,6 +1,6 @@
 # Source index
 
-**Comprehensive review is incomplete: 36 of 50 cataloged transcripts reviewed; 14 remain incomplete (one preview-only, 13 unread). No full transcript files are saved.** The [coverage register](coverage.csv) lists all 50 sources and their URLs, verified against the signed-in [SEO Roast catalog](https://seoroast.com/transcripts) on October 14, 2026. The next reading starts at PopaDex; see [the resume record](resume.md).
+**Comprehensive review is incomplete: 47 of 50 cataloged transcripts reviewed; 3 remain incomplete (one preview-only, two unread). No full transcript files are saved.** The [coverage register](coverage.csv) lists all 50 sources and their URLs, verified against the signed-in [SEO Roast catalog](https://seoroast.com/transcripts) on October 14, 2026. The next reading starts at Klu; see [the resume record](resume.md).
 
 Reviewed October 14–15, 2026. These are original research notes, not full transcripts. The full-transcript coverage below refers to the preceding reading session; no complete third-party transcript is vendored. See [research and imports](../research-sources.md).
 
@@ -34,7 +34,6 @@ Reviewed October 14–15, 2026. These are original research notes, not full tran
 | [Friends & Fables](fables.md) | 2024-10-07 | 15:30 | Transcript; no selected visuals |
 | [Memo Cards](memo-cards.md) | 2024-10-07 | 17:09 | Transcript; no selected visuals |
 | [Backpack](backpack-laravel.md) | 2024-09-12 | 14:28 | Transcript; no selected visuals |
-
 | [Rallly](rallly.md) | 2024-09-01 | 16:11 | Transcript; no selected visuals |
 | [Fast Pass Driving Tests](fastpassdrivingtests.md) | 2024-08-31 | 14:48 | Transcript; no selected visuals |
 | [Paytience](paytience.md) | 2024-08-22 | 19:34 | Transcript; no selected visuals |
@@ -43,5 +42,16 @@ Reviewed October 14–15, 2026. These are original research notes, not full tran
 | [Sheet2API](sheet2api.md) | 2024-08-16 | 14:54 | Transcript; no selected visuals |
 | [Coindive](coindive.md) | 2024-08-15 | 14:41 | Transcript; no selected visuals |
 | [Liftosaur](liftosaur.md) | 2024-08-14 | 16:21 | Transcript; no selected visuals |
+| [PopaDex](popadex.md) | 2024-08-11 | 19:30 | Transcript; no selected visuals |
+| [Typefully](typefully.md) | 2024-07-30 | 17:55 | Transcript; no selected visuals |
+| [Sync2Sheets](sync2sheets.md) | 2024-07-29 | 17:44 | Transcript; no selected visuals |
+| [CrownTV](crowntv.md) | 2024-07-28 | 14:17 | Transcript; no selected visuals |
+| [StealthGPT](stealthgpt.md) | 2024-06-25 | 14:14 | Transcript; no selected visuals |
+| [Botster](botster.md) | 2024-06-21 | 14:15 | Transcript; no selected visuals |
+| [BetterWorld](betterworld.md) | 2024-06-20 | 14:58 | Transcript; no selected visuals |
+| [Niche Tools](nichetools.md) | 2024-06-19 | 16:27 | Transcript; no selected visuals |
+| [Italian Gourmet Shop](italiangourmetshop.md) | 2024-06-18 | 20:56 | Transcript; no selected visuals |
+| [IconBuddy](iconbuddy.md) | 2024-06-17 | 17:12 | Transcript; no selected visuals |
+| [BetterPic](betterpic.md) | 2024-06-14 | 13:45 | Transcript; no selected visuals |
 
 Read [primary guidance](primary-guidance.md) before treating an audit recommendation as a platform requirement. The initial nine-audit sample did not fulfill the user's request to review everything. Preserve its useful findings while completing the remaining sources; do not label the comprehensive research complete yet.

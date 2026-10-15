@@ -43,11 +43,15 @@ For directory or data pages, ask which fields let a visitor make a decision, how
 
 For location-based answers, useful differences may be access instructions, facilities or current restrictions, each with a source and update owner. For metric-based pages, explain the measure, inputs, freshness and limits. Compare fields against the reader's task before adding more prose. [Fast Pass Driving Tests](sources/fastpassdrivingtests.md) and [Coindive](sources/coindive.md).
 
+A utility must deliver the promised input and useful result; do not substitute promotional copy for the task. Its separate page needs a distinct workflow, not just another keyword. [PopaDex](sources/popadex.md) and [Botster](sources/botster.md). Improve the task's outcome before expanding the template.
+
 ## Build from real knowledge
 
 Capture an operator explaining or demonstrating the task. Extract the decisions, examples and failure cases; verify them; then use AI to organize and simplify the article. Retain the relevant source recording or notes privately. This supplies first-party substance without asking a model to invent experience. See [AI Suit Up](sources/aisuitup.md).
 
 For an approved public dataset, sketch its relationships before generating pages: an entity, a useful category, a reverse lookup or a dated aggregate. Give each proposed view a reader question, required fields, source, update owner and expiry rule. Start with a few representative pages and check whether they answer different questions. [Hoverify](sources/hoverify.md) supplies an architectural example, not a reason to expose customer data or generate every combination.
+
+Google's current guidance focuses on accuracy, relevance and added value, rather than treating all AI-assisted content as a violation. Human review must cover the claims and metadata as well as the prose. [Generative AI guidance](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content).
 
 ## Compare without guessing
 
